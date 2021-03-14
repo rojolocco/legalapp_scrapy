@@ -1,0 +1,4058 @@
+[
+    {
+        "Id_total": 1,
+        "Id_local": 1,
+        "pregunta": "¿Cómo se debe presentar una acción de grupo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/accion_de_grupo"
+    },
+    {
+        "Id_total": 2,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer si soy privado injustamente de la libertad o si mi detención se prolonga ilegalmente?",
+        "link": "https://www.legalapp.gov.co/temajusticia/habeas_corpus"
+    },
+    {
+        "Id_total": 3,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hace para solicitar la inconstitucionalidad de una norma?",
+        "link": "https://www.legalapp.gov.co/temajusticia/accion_de_inconstitucionalidad"
+    },
+    {
+        "Id_total": 4,
+        "Id_local": 4,
+        "pregunta": "¿Qué debo hacer para exigir el cumplimiento de una ley o acto administrativo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/accion-de-cumplimiento"
+    },
+    {
+        "Id_total": 5,
+        "Id_local": 5,
+        "pregunta": "¿Qué debo hacer si se presenta una situación que afecta o amenaza afectar de manera grave, tanto mis derechos como los de la comunidad en la que vivo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/accion_popular"
+    },
+    {
+        "Id_total": 6,
+        "Id_local": 6,
+        "pregunta": "¿Cómo debo presentar una acción de tutela para proteger mis derechos fundamentales?",
+        "link": "https://www.legalapp.gov.co/temajusticia/accion_de_tutela"
+    },
+    {
+        "Id_total": 7,
+        "Id_local": 7,
+        "pregunta": "¿Cómo realizar solicitudes a las autoridades o instituciones privadas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/derecho_de_peticion"
+    },
+    {
+        "Id_total": 8,
+        "Id_local": 1,
+        "pregunta": "¿Qué cambios hay en el trámite de derechos de petición durante la emergencia sanitaria por covid 19?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Tramite_de_solicitudes_durante_las_medidas_de_emergencia_por_Covid_19"
+    },
+    {
+        "Id_total": 9,
+        "Id_local": 2,
+        "pregunta": "¿Cómo se renuevan los permisos, licencias, autorizaciones o certificados, durante la emergencia por covid 19?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Renovacion_de_permisos,_autorizaciones,_certificados_y_licencias_durante_la_emergencia_por_covid_19"
+    },
+    {
+        "Id_total": 10,
+        "Id_local": 3,
+        "pregunta": "¿Cómo se prestará el servicio notarial durante la emergencia por covid 19?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Funcionamiento_de_notarias_durante_laemergencia_sanitaria_por_covid_19"
+    },
+    {
+        "Id_total": 11,
+        "Id_local": 4,
+        "pregunta": "¿Cómo se notifican los actos administrativos durante la emergencia por Covid-19?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Notificacion_o_comunicacion_de_actos_administrativos_durante_la_emergencia_por_Covid_19"
+    },
+    {
+        "Id_total": 12,
+        "Id_local": 5,
+        "pregunta": "¿Las comisarías de familia siguen brindando atención durante la emergencia por Covid-19?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Atencion_de_las_comisarias_defamilia_durante_la_emergencia_por_Covid_19"
+    },
+    {
+        "Id_total": 13,
+        "Id_local": 6,
+        "pregunta": "¿Cómo presentar una acción de tutela durante las medidas de aislamiento por covid 19?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Presentar_una_accion_de_tutela_durante_las_medidas_de_aislamiento_por_covid_19"
+    },
+    {
+        "Id_total": 14,
+        "Id_local": 7,
+        "pregunta": "¿Cómo puedo reclamar la pensión durante la emergencia por Covid -19?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Pago_de_pensiones_durante_la_emergencia_por_Covid-19"
+    },
+    {
+        "Id_total": 15,
+        "Id_local": 8,
+        "pregunta": "¿En qué consiste la devolución del IVA y cómo puedo saber si soy beneficiario?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Devolucion_del_IVA"
+    },
+    {
+        "Id_total": 16,
+        "Id_local": 9,
+        "pregunta": "¿Cómo solicitar el pago de títulos por alimentos durante las medidas por covid 19?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Pago_de_titulos_judiciales_por_alimentos_durante_las_medidas_por_covid_19"
+    },
+    {
+        "Id_total": 17,
+        "Id_local": 10,
+        "pregunta": "¿Es posible solicitar o seguir con los trámites de adopción durante la emergencia?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Proceso_de_adopcion_durante_la_emergencia_por_Covid-19"
+    },
+    {
+        "Id_total": 18,
+        "Id_local": 11,
+        "pregunta": "¿Es posible realizar procesos de desalojos en viviendas arrendadas durante la emergencia por Covid-19?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Acciones_de_desalojo_durante_la_emergencia_por_Covid-19"
+    },
+    {
+        "Id_total": 19,
+        "Id_local": 12,
+        "pregunta": "¿Existen subsidios para las empresas en Colombia, debido a las afectaciones por COVID-19?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Subsidios_para_el_pago_nomina"
+    },
+    {
+        "Id_total": 20,
+        "Id_local": 13,
+        "pregunta": "¿Cómo se puede terminar el contrato de arrendamiento de local comercial durante la emergencia sanitaria por covid 19?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Terminacion_del_contrato_de_local_comercial_durante_la_emergencia_Sanitaria"
+    },
+    {
+        "Id_total": 21,
+        "Id_local": 14,
+        "pregunta": "¿En qué consiste la amnistía para deudores de multas de tránsito y como puedo acceder a ella?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Amnistia_a_los_deudores_de_multas_de_transito"
+    },
+    {
+        "Id_total": 22,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer para constituir una asociación?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Asociaciones_(ESAL)"
+    },
+    {
+        "Id_total": 23,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer para constituir una corporación?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Corporaciones_(ESAL)"
+    },
+    {
+        "Id_total": 24,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer para constituir una fundación?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Fundaciones_(ESAL)"
+    },
+    {
+        "Id_total": 25,
+        "Id_local": 4,
+        "pregunta": "¿Qué es una cooperativa y como la constituyo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Constitucion_de_cooperativas"
+    },
+    {
+        "Id_total": 26,
+        "Id_local": 5,
+        "pregunta": "¿Qué son las asociaciones mutuales y cómo se constituyen?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Constitucion_creacion_de_asociaciones_mutuales"
+    },
+    {
+        "Id_total": 27,
+        "Id_local": 6,
+        "pregunta": "¿Qué es una precooperativa y cómo se constituye?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Constitucion_creacion_de_precooperativas"
+    },
+    {
+        "Id_total": 28,
+        "Id_local": 7,
+        "pregunta": "¿Qué es un fondo de empleados y cómo lo constituyo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Constitucion_creacion_de_fondos_de_empleados"
+    },
+    {
+        "Id_total": 29,
+        "Id_local": 1,
+        "pregunta": "¿Qué hacer si conozco sobre un miembro de la fuerza pública, que abandona su puesto o no se presenta a trabajar?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Abandono_del_servicio"
+    },
+    {
+        "Id_total": 30,
+        "Id_local": 2,
+        "pregunta": "¿Qué hacer si un miembro de la fuerza pública se niega a cumplir una orden de un superior o impide que otro la cumpla?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Insubordinacion"
+    },
+    {
+        "Id_total": 31,
+        "Id_local": 3,
+        "pregunta": "¿Qué hacer si alguien que está prestando el servicio militar se vuela o sale con permiso y no se vuelve a presentar en el comando?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Desercion"
+    },
+    {
+        "Id_total": 32,
+        "Id_local": 4,
+        "pregunta": "¿Qué hacer si el soldado que está de guardia se duerme o consume alcohol o estupefacientes?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Delito_del_centinela"
+    },
+    {
+        "Id_total": 33,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si soy víctima o conozco algún delito o irregularidad electoral?",
+        "link": "https://www.legalapp.gov.co/temajusticia/elecciones"
+    },
+    {
+        "Id_total": 34,
+        "Id_local": 2,
+        "pregunta": "¿Qué hacer si alguien suplanta a otra persona para poder votar o vota más de una vez?",
+        "link": "https://www.legalapp.gov.co/temajusticia/voto_fraudulento"
+    },
+    {
+        "Id_total": 35,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer si veo que una persona altera los resultados de las elecciones?",
+        "link": "https://www.legalapp.gov.co/temajusticia/alteracion_de_resultados_electorales"
+    },
+    {
+        "Id_total": 36,
+        "Id_local": 4,
+        "pregunta": "¿Qué puedo hacer si una persona retiene o esconde mi cédula para impedirme votar?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Ocultamiento_retencion_y_posesion_ilicita_de_cedulas"
+    },
+    {
+        "Id_total": 37,
+        "Id_local": 5,
+        "pregunta": "¿Qué debo hacer si conozco el caso de una persona que vende los votos de un grupo de ciudadanos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/trafico_de_votos"
+    },
+    {
+        "Id_total": 38,
+        "Id_local": 6,
+        "pregunta": "¿Qué debo hacer en caso de que me ofrezcan plata u otros beneficios por mi voto?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Corrupcion_de_sufragante"
+    },
+    {
+        "Id_total": 39,
+        "Id_local": 7,
+        "pregunta": "¿Qué debo hacer si estoy siendo amenazado o presionado para no votar o para que lo haga por una determinada persona el día de las elecciones?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Constrenimiento_al_sufragante"
+    },
+    {
+        "Id_total": 40,
+        "Id_local": 8,
+        "pregunta": "¿Qué puedo hacer en caso de saber que se esté dando información falsa a las personas con el fin de que no voten?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Perturbacion_de_certamen_democratico"
+    },
+    {
+        "Id_total": 41,
+        "Id_local": 9,
+        "pregunta": "¿Qué debo hacer si sé que un candidato electo está inhabilitado para ocupar cargos públicos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/eleccion_ilicita"
+    },
+    {
+        "Id_total": 42,
+        "Id_local": 10,
+        "pregunta": "¿Qué debo hacer en caso de que me ofrezcan plata u otros beneficios por la inscripción de mi cédula?",
+        "link": "https://www.legalapp.gov.co/temajusticia/fraude_de_inscripcion_de_cedulas"
+    },
+    {
+        "Id_total": 43,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si veo a alguien ingresando o saliendo del sistema de transporte público por sitios no autorizados o no paga el pasaje?",
+        "link": "https://www.legalapp.gov.co/temajusticia/colados-en-el-sistema-de-transporte-publico"
+    },
+    {
+        "Id_total": 44,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer si veo a alguien haciendo grafitis en espacios públicos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/grafitis-o-dibujos-en-espacio-publico"
+    },
+    {
+        "Id_total": 45,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer si alguien me pega o amenaza con agredirme?",
+        "link": "https://www.legalapp.gov.co/temajusticia/peleas-rinas-agresiones"
+    },
+    {
+        "Id_total": 46,
+        "Id_local": 4,
+        "pregunta": "¿Qué hacer si alguien de manera arbitraria o abusiva perturba, altera o interrumpe la posesión o arrendamiento de un inmueble (casa, finca, lote…)?",
+        "link": "https://www.legalapp.gov.co/temajusticia/molestias-a-la-posesion-por-ocupacion-de-hecho"
+    },
+    {
+        "Id_total": 47,
+        "Id_local": 5,
+        "pregunta": "¿Qué hacer si alguien de manera arbitraria o abusiva perturba, altera o interrumpe el uso de la servidumbre de un inmueble (casa, finca, lote…)?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Molestiasenlaservidumbre"
+    },
+    {
+        "Id_total": 48,
+        "Id_local": 6,
+        "pregunta": "¿Qué puedo hacer si veo personas consumiendo drogas en espacios públicos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Dosis_personal_(Sustancias_psicoactivas)_en_espacio_público."
+    },
+    {
+        "Id_total": 49,
+        "Id_local": 7,
+        "pregunta": "¿Qué hacer si existen actos que molestan la posesión tranquila de un inmueble (casa, finca, lote…)?",
+        "link": "https://www.legalapp.gov.co/temajusticia/molestias_a_la_posesion"
+    },
+    {
+        "Id_total": 50,
+        "Id_local": 8,
+        "pregunta": "¿Qué hacer si alguien ocupa de manera abusiva o arbitraria un inmueble (casa, finca, lote…)?",
+        "link": "https://www.legalapp.gov.co/temajusticia/lanzamiento_por_ocupacion_de_hecho"
+    },
+    {
+        "Id_total": 51,
+        "Id_local": 9,
+        "pregunta": "¿Qué hacer si usted le permitió a alguien permanecer en su casa o domicilio, y tiempo después no es posible desalojarla?",
+        "link": "https://www.legalapp.gov.co/temajusticia/amparo_al_domicilio"
+    },
+    {
+        "Id_total": 52,
+        "Id_local": 10,
+        "pregunta": "¿Qué hacer si tengo conflictos de convivencia con un vecino?",
+        "link": "https://www.legalapp.gov.co/temajusticia/conflictos_vecinales"
+    },
+    {
+        "Id_total": 53,
+        "Id_local": 1,
+        "pregunta": "¿Qué hacer si mi vecino arroja basuras (residuos y escombros) en el espacio público o los queman?",
+        "link": "https://www.legalapp.gov.co/temajusticia/arrojar-basuras-en-espacio-publico"
+    },
+    {
+        "Id_total": 54,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer si veo a alguien orinando en el espacio público?",
+        "link": "https://www.legalapp.gov.co/temajusticia/necesidades-fisiologicas-en-espacio-publico"
+    },
+    {
+        "Id_total": 55,
+        "Id_local": 3,
+        "pregunta": "¿Qué hacer si se inicia una construcción sospechosa, sin un anuncio visible que dé cuenta de la existencia de una licencia para dicho propósito?",
+        "link": "https://www.legalapp.gov.co/temajusticia/infracciones_urbanisticas"
+    },
+    {
+        "Id_total": 56,
+        "Id_local": 1,
+        "pregunta": "¿Qué hacer si no puedo pagar mis deudas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/insolvencia_de_persona_natural_no_comerciante"
+    },
+    {
+        "Id_total": 57,
+        "Id_local": 2,
+        "pregunta": "¿Cómo puedo presentar una solicitud de conciliación?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Solicitud_de_Conciliacion"
+    },
+    {
+        "Id_total": 58,
+        "Id_local": 3,
+        "pregunta": "¿En qué casos y cómo puedo iniciar un procedimiento de arbitraje?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Arbitraje"
+    },
+    {
+        "Id_total": 59,
+        "Id_local": 4,
+        "pregunta": "¿Por qué medio puedo dar por terminado un litigio, toda vez que las partes del conflicto han llegado a un acuerdo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Transacción_"
+    },
+    {
+        "Id_total": 60,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si quiero obtener la nacionalidad colombiana?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Nacionalidad_colombiana_por_adopcion"
+    },
+    {
+        "Id_total": 61,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer para solicitar una visa para Colombia y qué permisos me otorga como extranjero?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Visas_Colombia"
+    },
+    {
+        "Id_total": 62,
+        "Id_local": 3,
+        "pregunta": "¿Un extranjero o colombiano que viva en el exterior puede solicitar adoptar un menor en Colombia?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Adopcion_internacional"
+    },
+    {
+        "Id_total": 63,
+        "Id_local": 4,
+        "pregunta": "Soy migrante venezolano y me encuentro en Colombia, ¿existe algún programa especial para legalizar mi permanencia temporal en este país?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Permiso_Especial_de_Permanencia_Venezolanos"
+    },
+    {
+        "Id_total": 64,
+        "Id_local": 5,
+        "pregunta": "¿Qué debo hacer para solicitar refugio en Colombia?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Reconocimiento_de_la_condicion_de_refugiado"
+    },
+    {
+        "Id_total": 65,
+        "Id_local": 6,
+        "pregunta": "Soy migrante venezolano, ¿qué debo hacer para que mi hijo(a) nacido(a) en Colombia obtenga la nacionalidad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Nacionalidad_colombiana_para_hijos_e_hijas_de_venezolanos"
+    },
+    {
+        "Id_total": 66,
+        "Id_local": 7,
+        "pregunta": "¿Qué es la Cédula de Extranjería y cómo obtenerla?",
+        "link": "https://www.legalapp.gov.co/temajusticia/cedula_de_extranjeria"
+    },
+    {
+        "Id_total": 67,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si vengo de otro país y quiero formalizar mi situación en territorio colombiano?",
+        "link": "https://www.legalapp.gov.co/temajusticia/inmigracion"
+    },
+    {
+        "Id_total": 68,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer para darle validez en Colombia a un matrimonio celebrado en el extranjero?",
+        "link": "https://www.legalapp.gov.co/temajusticia/validacion-matrimonio-extranjero-en-colombia"
+    },
+    {
+        "Id_total": 69,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer para darle validez en Colombia a un divorcio realizado en el extranjero?",
+        "link": "https://www.legalapp.gov.co/temajusticia/divorcio_en_el_extranjero"
+    },
+    {
+        "Id_total": 70,
+        "Id_local": 4,
+        "pregunta": "¿Qué solicitud debo presentar para poder cumplir la pena en Colombia?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Traslado_de_Personas_Condenadas_(Repatriación)"
+    },
+    {
+        "Id_total": 71,
+        "Id_local": 5,
+        "pregunta": "¿Qué hacer si me  encuentro en el extranjero y perdí mi pasaporte colombiano?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Pasaporte"
+    },
+    {
+        "Id_total": 72,
+        "Id_local": 6,
+        "pregunta": "¿Qué hacer si renuncié a la nacionalidad colombiana y ahora quiero recuperarla?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Recuperación_de_la_nacionalidad_colombiana."
+    },
+    {
+        "Id_total": 73,
+        "Id_local": 7,
+        "pregunta": "¿Qué hacer si quiero retornar a mi país? ¿puedo recibir algún tipo de acompañamiento?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Ley_Retorno"
+    },
+    {
+        "Id_total": 74,
+        "Id_local": 8,
+        "pregunta": "¿Qué hacer para solicitar mi cédula de ciudadanía o tarjeta de identidad, si me encuentro fuera del país?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Solicitud_de_documento_de_identidad_en_el_extranjero_(tarjeta_de_identidad_y_cédula_de_ciudadanía)"
+    },
+    {
+        "Id_total": 75,
+        "Id_local": 9,
+        "pregunta": "¿Qué hacer para obtener un registro civil (nacimiento, matrimonio, defunción) si me encuentro en el extranjero?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Solicitud_de_registro_civil_en_el_extranjero"
+    },
+    {
+        "Id_total": 76,
+        "Id_local": 10,
+        "pregunta": "¿Qué debo hacer para autenticar un documento en el exterior?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Autenticacion_de_documento_en_el_exterior"
+    },
+    {
+        "Id_total": 77,
+        "Id_local": 11,
+        "pregunta": "¿Qué hacer para elaborar escrituras públicas si no me encuentro en Colombia?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Protocolización_de_Escrituras_Públicas"
+    },
+    {
+        "Id_total": 78,
+        "Id_local": 12,
+        "pregunta": "¿Qué hacer para solicitar certificaciones y constancias si me encuentro fuera del país?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Certificaciones_y_constancias"
+    },
+    {
+        "Id_total": 79,
+        "Id_local": 13,
+        "pregunta": "Soy colombiano y me encuentro en otro país, ¿dónde puedo realizar el reconocimiento de firmas de un documento?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Reconocimiento_de_firma_en_documento_privado"
+    },
+    {
+        "Id_total": 80,
+        "Id_local": 14,
+        "pregunta": "Me encuentro en otro país, ¿qué hacer para realizar el reconocimiento de firma para autorizar la salida de Colombia de un menor?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Reconocimiento_de_firma_en_autorización_de_salida_de_menor"
+    },
+    {
+        "Id_total": 81,
+        "Id_local": 15,
+        "pregunta": "Soy colombiano y vivo en el exterior, ¿qué tipo de asistencia jurídica puedo recibir en los consulados de Colombia?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Asistencia_a_connacionales_en_el_exterior"
+    },
+    {
+        "Id_total": 82,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer para que me declaren poseedor regular de un inmueble?",
+        "link": "https://www.legalapp.gov.co/temajusticia/posesion_regular"
+    },
+    {
+        "Id_total": 83,
+        "Id_local": 2,
+        "pregunta": "¿Cómo me puedo convertir en dueño de un predio sobre el cual he habitado hace mucho tiempo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/declaracion_de_pertenencia"
+    },
+    {
+        "Id_total": 84,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer si se inicia un proceso de restitución de tierras sobre el predio que yo he estado habitando o sobre el cual considero que tengo derechos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/terceros_intervinientes_y_segundos_ocupantes_en_restitucion_de_tierras"
+    },
+    {
+        "Id_total": 85,
+        "Id_local": 4,
+        "pregunta": "¿Qué hacer si estoy explotando un predio que es de la Nación (baldío) y quiero que la Agencia Nacional de Tierras me lo entregue y titule?",
+        "link": "https://www.legalapp.gov.co/temajusticia/titulacion_de_baldios"
+    },
+    {
+        "Id_total": 86,
+        "Id_local": 5,
+        "pregunta": "Bajo el marco del conflicto armado. ¿Qué debo hacer si fui despojado u obligado a abandonar mi predio?",
+        "link": "https://www.legalapp.gov.co/temajusticia/restitucion_de_tierras"
+    },
+    {
+        "Id_total": 87,
+        "Id_local": 6,
+        "pregunta": "¿Cómo puedo saber si un predio rural es baldío o privado?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Proceso_de_clarificacion_de_la_propiedad_rural"
+    },
+    {
+        "Id_total": 88,
+        "Id_local": 7,
+        "pregunta": "¿Cómo definir los linderos de mi vivienda o de mi propiedad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/deslinde_y_amojonamiento"
+    },
+    {
+        "Id_total": 89,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si soy afectado por un desastre natural?",
+        "link": "https://www.legalapp.gov.co/temajusticia/desastres_naturales"
+    },
+    {
+        "Id_total": 90,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer en caso de conocer casos de tráfico o comercialización de fauna silvestre o especies amenazadas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/ilicito-aprovechamiento-de-los-recursos-naturales-renovables-trafico-de-fauna-silvestre"
+    },
+    {
+        "Id_total": 91,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer para solicitar la licencia ambiental?",
+        "link": "https://www.legalapp.gov.co/temajusticia/solicitud-de-licencia-ambiental"
+    },
+    {
+        "Id_total": 92,
+        "Id_local": 4,
+        "pregunta": "¿Qué debo hacer para registrar una nueva variedad vegetal/animal o su mejoramiento?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Registro_de_obtencion_vegetal_y_animal"
+    },
+    {
+        "Id_total": 93,
+        "Id_local": 5,
+        "pregunta": "¿Qué debo hacer si tengo un problema relacionado con mi derecho de obtentor sobre variedades vegetales?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Conflicto_Obtencion_Vegetal"
+    },
+    {
+        "Id_total": 94,
+        "Id_local": 6,
+        "pregunta": "¿Qué debo hacer si conozco casos en los que se contaminan los recursos naturales (suelo, aire y agua)?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Contaminacion_Ambiental"
+    },
+    {
+        "Id_total": 95,
+        "Id_local": 7,
+        "pregunta": "¿Qué debo hacer si conozco de casos en los que se afectan los recursos naturales de mi municipio indiscriminadamente?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Danos_en_los_recursos_naturales"
+    },
+    {
+        "Id_total": 96,
+        "Id_local": 8,
+        "pregunta": "¿Qué debo hacer si conozco de casos en los que una persona se apropia de terrenos ajenos, cambia linderos o desvía el curso de las aguas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Usurpacion_de_tierras_y/o_aguas"
+    },
+    {
+        "Id_total": 97,
+        "Id_local": 9,
+        "pregunta": "¿Qué puedo hacer si conozco que se está explorando o explotando una mina de manera ilegal?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Exploracion_y_explotacion_ilícita_de_minas"
+    },
+    {
+        "Id_total": 98,
+        "Id_local": 10,
+        "pregunta": "¿Qué hacer para solicitar permiso o autorización para explorar o explotar una mina de manera legal?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Concesion_minera"
+    },
+    {
+        "Id_total": 99,
+        "Id_local": 11,
+        "pregunta": "¿Qué debo hacer para obtener una concesión de aguas superficiales?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Concesion_de_aguas_superficiales"
+    },
+    {
+        "Id_total": 100,
+        "Id_local": 12,
+        "pregunta": "¿Qué debo hacer para obtener un permiso de aprovechamiento o autorización forestal para árboles aislados?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Permiso_o_autorizacion_para_aprovechamiento_forestal_para_arboles_aislados"
+    },
+    {
+        "Id_total": 101,
+        "Id_local": 13,
+        "pregunta": "¿Qué debo hacer para obtener un permiso de aprovechamiento forestal de bosques naturales?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Permiso_de_aprovechamiento_forestal_de_bosques_naturales"
+    },
+    {
+        "Id_total": 102,
+        "Id_local": 14,
+        "pregunta": "¿Qué debo hacer para obtener una concesión de aguas subterráneas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Concesion_deaguas_subterraneas"
+    },
+    {
+        "Id_total": 103,
+        "Id_local": 15,
+        "pregunta": "¿Qué debo hacer para obtener un permiso de vertimientos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Permiso_de_vertimientos"
+    },
+    {
+        "Id_total": 104,
+        "Id_local": 16,
+        "pregunta": "¿Qué debo hacer para poder realizar una construcción que ocupa una fuente de agua o una playa?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Permiso_de_ocupación_de_cauces_playas_y_lechos"
+    },
+    {
+        "Id_total": 105,
+        "Id_local": 17,
+        "pregunta": "¿Qué debo hacer si necesito cavar un pozo para buscar y utilizar las aguas subterráneas que pueda encontrar en mí propiedad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Permiso_de_prospeccion_y_exploracion_de_aguas_subterraneas"
+    },
+    {
+        "Id_total": 106,
+        "Id_local": 18,
+        "pregunta": "¿Qué se debe hacer para obtener la aprobación de un Plan de Saneamiento y Manejo de Vertimientos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Plan_de_Saneamiento_y_Manejo_de_Vertimientos"
+    },
+    {
+        "Id_total": 107,
+        "Id_local": 1,
+        "pregunta": "¿Qué hacer si compré un producto que no funciona bien y no puedo hacer efectiva la garantía?",
+        "link": "https://www.legalapp.gov.co/temajusticia/violacion_a_los_derechos_del_consumidor_de_bienes_y_servicios"
+    },
+    {
+        "Id_total": 108,
+        "Id_local": 2,
+        "pregunta": "¿Qué hacer si alguien está utilizando mis datos personales sin mi consentimiento para vulnerar mi buen nombre o para promocionar bienes y servicios que no son de mi interés?",
+        "link": "https://www.legalapp.gov.co/temajusticia/proteccion_de_datos_personales"
+    },
+    {
+        "Id_total": 109,
+        "Id_local": 3,
+        "pregunta": "¿Qué hacer si soy usuario de los servicios de telefonía y estos no son buenos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/violacion_a_los_derechos_del_consumidor_de_telecomunicaciones"
+    },
+    {
+        "Id_total": 110,
+        "Id_local": 4,
+        "pregunta": "¿Qué hacer si no estoy conforme con un servicio financiero o existen diferencias con un banco, aseguradora o compañía de financiamiento?",
+        "link": "https://www.legalapp.gov.co/temajusticia/quejas_contra_el_sistema_financiero"
+    },
+    {
+        "Id_total": 111,
+        "Id_local": 5,
+        "pregunta": "¿Qué debo hacer si el colegio o jardín donde estudia mi hijo me está exigiendo útiles escolares inútiles o innecesarios?",
+        "link": "https://www.legalapp.gov.co/temajusticia/utiles_inutiles"
+    },
+    {
+        "Id_total": 112,
+        "Id_local": 6,
+        "pregunta": "¿Qué hacer si no está conforme con el servicio de su EPS o IPS?",
+        "link": "https://www.legalapp.gov.co/temajusticia/quejas_contra_entidades_de_salud"
+    },
+    {
+        "Id_total": 113,
+        "Id_local": 7,
+        "pregunta": "¿Qué hacer si no está conforme con los servicios prestados por la empresa de agua, de luz o de gas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/quejas_contra_empresas_de_servicios_publicos_domiciliarios"
+    },
+    {
+        "Id_total": 114,
+        "Id_local": 8,
+        "pregunta": "¿Qué hacer si me han violado mis derechos como usuario o comprador de un bien o servicio?",
+        "link": "https://www.legalapp.gov.co/temajusticia/violacion_a_los_derechos_del_consumidor"
+    },
+    {
+        "Id_total": 115,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer para definir mi situación militar si soy reconocido como víctima?",
+        "link": "https://www.legalapp.gov.co/temajusticia/situacion_militar_de_victimas"
+    },
+    {
+        "Id_total": 116,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer si fui víctima de violencia sexual por parte de algún miembro de grupos al margen de la ley?",
+        "link": "https://www.legalapp.gov.co/temajusticia/violencia_sexual_en_el_marco_del_conflicto_armado"
+    },
+    {
+        "Id_total": 117,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer para que me incluyan en el Registro Único de Víctimas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/solicitud_inclusion_en_el_registro_unico_de_victimas"
+    },
+    {
+        "Id_total": 118,
+        "Id_local": 4,
+        "pregunta": "¿Mi solicitud de inscripción al Registro Único de Victimas fue negada, que debo hacer?",
+        "link": "https://www.legalapp.gov.co/temajusticia/no_inclusion_en_el_registro_unico_de_victimas"
+    },
+    {
+        "Id_total": 119,
+        "Id_local": 5,
+        "pregunta": "¿Qué debo hacer si mi comunidad, grupo u organización, ha sufrido un daño por causa del conflicto armado?",
+        "link": "https://www.legalapp.gov.co/temajusticia/solicitud_inclusion_en_el_registro_unico_de_victimas_de_una_colectividad"
+    },
+    {
+        "Id_total": 120,
+        "Id_local": 6,
+        "pregunta": "¿Qué debo hacer para obtener la ayuda humanitaria por ser desplazado del conflicto armado?",
+        "link": "https://www.legalapp.gov.co/temajusticia/asistencia_humanitaria_a_personas_desplazadas"
+    },
+    {
+        "Id_total": 121,
+        "Id_local": 7,
+        "pregunta": "¿Qué debo hacer para reintegrarme a la sociedad civil si soy desmovilizado?",
+        "link": "https://www.legalapp.gov.co/temajusticia/reintegracion"
+    },
+    {
+        "Id_total": 122,
+        "Id_local": 8,
+        "pregunta": "¿Qué debo hacer si soy víctima de una mina antipersonal?",
+        "link": "https://www.legalapp.gov.co/temajusticia/medidas_de_rehabilitacion_para_las_personas_afectadas_por_minas_antipersonal"
+    },
+    {
+        "Id_total": 123,
+        "Id_local": 9,
+        "pregunta": "¿Qué debo hacer si quiero que me hagan entrega del cuerpo de mi familiar muerto en el marco del conflicto armado?",
+        "link": "https://www.legalapp.gov.co/temajusticia/entrega-de-cadaveres"
+    },
+    {
+        "Id_total": 124,
+        "Id_local": 10,
+        "pregunta": "¿Qué debo hacer para solicitar las medidas de protección y seguridad debido a continuas amenazas contra mi vida y ante qué programa de protección debo acudir?",
+        "link": "https://www.legalapp.gov.co/temajusticia/solicitud-medida-de-proteccion-a-victimas-y-testigos-de-la-ley-de-justicia-y-paz"
+    },
+    {
+        "Id_total": 125,
+        "Id_local": 11,
+        "pregunta": "Bajo el marco del conflicto armado. ¿Qué debo hacer si fui despojado u obligado a abandonar mi predio?",
+        "link": "https://www.legalapp.gov.co/temajusticia/restitucion_de_tierras"
+    },
+    {
+        "Id_total": 126,
+        "Id_local": 12,
+        "pregunta": "¿Qué debo hacer para solicitar protección en caso de considerar que mi vida, integridad y seguridad se encuentra en riesgo por mi condición de víctima o testigo en el marco de la Ley 975 de 2005?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Protección_de_víctimas_y_testigos_Ley_975_de_2005"
+    },
+    {
+        "Id_total": 127,
+        "Id_local": 13,
+        "pregunta": "Soy una persona LGBT víctima del conflicto armado,¿Qué debo hacer para obtener una reparación y atención integral como tal?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Reparacion_victimas_del_conflicto_armado_poblacion_LGBT"
+    },
+    {
+        "Id_total": 128,
+        "Id_local": 1,
+        "pregunta": "¿Se deben someter a interdicción las personas con discapacidad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/sistemas_de_apoyos_para_personas_con_discapacidad"
+    },
+    {
+        "Id_total": 129,
+        "Id_local": 2,
+        "pregunta": "¿Si soy una persona con discapacidad cómo debo ser atendido por cualquier tipo de autoridad pública o privada y que derechos tengo para acceder a la administración de justicia?",
+        "link": "https://www.legalapp.gov.co/temajusticia/discapacidad"
+    },
+    {
+        "Id_total": 130,
+        "Id_local": 3,
+        "pregunta": "Soy una persona con discapacidad visual ¿Qué puedo hacer para acceder a la información escrita?",
+        "link": "https://www.legalapp.gov.co/temajusticia/discapacidad_visual"
+    },
+    {
+        "Id_total": 131,
+        "Id_local": 4,
+        "pregunta": "¿Qué medidas se deben tomar para que las personas con discapacidad puedan acceder a todos los espacios y al transporte público, sin impedimento alguno?",
+        "link": "https://www.legalapp.gov.co/temajusticia/accesibilidad_y_transporte_de_las_personas_con_discapacidad"
+    },
+    {
+        "Id_total": 132,
+        "Id_local": 5,
+        "pregunta": "¿Qué se debe hacer si se quiere levantar la medida de interdicción a la que está sujeta una persona con discapacidad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/rehabilitacion_de_interdicto"
+    },
+    {
+        "Id_total": 133,
+        "Id_local": 6,
+        "pregunta": "¿Las personas con discapacidad pueden contraer matrimonio?",
+        "link": "https://www.legalapp.gov.co/temajusticia/matrimonio_persona_con_discapacidad"
+    },
+    {
+        "Id_total": 134,
+        "Id_local": 7,
+        "pregunta": "¿Puede una mujer con discapacidad en embarazo abortar?",
+        "link": "https://www.legalapp.gov.co/temajusticia/aborto_de_personas_con_discapacidad"
+    },
+    {
+        "Id_total": 135,
+        "Id_local": 8,
+        "pregunta": "Soy una persona en condición de discapacidad, ¿Qué puedo hacer para que me reintegren al trabajo si fui despedido sin justa causa?",
+        "link": "https://www.legalapp.gov.co/temajusticia/reintegro_al_trabajo_a_causa_del_despido_de_una_persona_con_discapacidad"
+    },
+    {
+        "Id_total": 136,
+        "Id_local": 9,
+        "pregunta": "¿Qué debo hacer si mi esposo(a) quiere que le realicen el procedimiento de esterilización quirúrgica a nuestra hija quien tiene discapacidad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/esterilizacion_forzada"
+    },
+    {
+        "Id_total": 137,
+        "Id_local": 10,
+        "pregunta": "¿Las personas con discapacidad pueden acceder a programas u orientación en salud sexual y reproductiva?",
+        "link": "https://www.legalapp.gov.co/temajusticia/derechos_sexuales_y_reproductivos_de_las_personas_con_discapacidad"
+    },
+    {
+        "Id_total": 138,
+        "Id_local": 11,
+        "pregunta": "¿Cómo reclamar alimentos a una adulto mayor con discapacidad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/solicitud_de_alimentos_para_adulto_mayor_con_discapacidad"
+    },
+    {
+        "Id_total": 139,
+        "Id_local": 12,
+        "pregunta": "¿Qué deben hacer las personas en condición de discapacidad para sacar la libreta militar?",
+        "link": "https://www.legalapp.gov.co/temajusticia/situacion_militar_de_personas_en_condicion_de_discapacidad"
+    },
+    {
+        "Id_total": 140,
+        "Id_local": 13,
+        "pregunta": "¿Qué puedo hacer si me despidieron del trabajo por causa de mi condición de discapacidad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/despido_sin_justa_causa_de_persona_con_discapacidad"
+    },
+    {
+        "Id_total": 141,
+        "Id_local": 14,
+        "pregunta": "¿Qué debo hacer para proteger la integridad y los bienes de una persona con discapacidad mental?",
+        "link": "https://www.legalapp.gov.co/temajusticia/tramite_de_interdiccion_personas_con_discapacidad"
+    },
+    {
+        "Id_total": 142,
+        "Id_local": 1,
+        "pregunta": "¿Qué hacer si tengo desacuerdos o conflictos al interior de la Pueblo Rrom?",
+        "link": "https://www.legalapp.gov.co/temajusticia/conflicto_en_el_pueblo_rrom"
+    },
+    {
+        "Id_total": 143,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer en caso de ser discriminado?",
+        "link": "https://www.legalapp.gov.co/temajusticia/discriminacion"
+    },
+    {
+        "Id_total": 144,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si tengo desacuerdos o conflictos al interior de un Consejo Comunitario de Negritudes, Afrocolombianos, Raizales y Palenqueros?",
+        "link": "https://www.legalapp.gov.co/temajusticia/conflicto_en_comunidades_afrocolombianos"
+    },
+    {
+        "Id_total": 145,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer en caso de ser discriminado?",
+        "link": "https://www.legalapp.gov.co/temajusticia/discriminacion"
+    },
+    {
+        "Id_total": 146,
+        "Id_local": 3,
+        "pregunta": "¿Qué hacer si soy víctima de discriminación en razón de mi raza por parte de personal de vigilancia privada?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Discriminacion_racial_por_parte_de_personal_de_vigilancia_privada"
+    },
+    {
+        "Id_total": 147,
+        "Id_local": 4,
+        "pregunta": "¿Qué debo hacer si me niegan la entrada a un lugar en razón de mi raza, sexo, orientación sexual, identidad de género, condición socio económica o discapacidad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Limitar_el_ingreso_a_lugares_abiertos_al_publico_o_eventos_publicos"
+    },
+    {
+        "Id_total": 148,
+        "Id_local": 5,
+        "pregunta": "Soy miembro de un Consejo Comunitario (ANPR) y fui despojado de mi territorio ¿qué debo hacer?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Restitucion_territorial_colectiva_para_comunidades_negras"
+    },
+    {
+        "Id_total": 149,
+        "Id_local": 1,
+        "pregunta": "¿Cómo puedo hacer el cambio de nombre si soy indígena?",
+        "link": "https://www.legalapp.gov.co/temajusticia/cambio_de_nombre_indigenas"
+    },
+    {
+        "Id_total": 150,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer si tengo desacuerdos o conflictos al interior de un territorio indígena?",
+        "link": "https://www.legalapp.gov.co/temajusticia/conflicto-en-territorio-indigena"
+    },
+    {
+        "Id_total": 151,
+        "Id_local": 3,
+        "pregunta": "¿Cómo puedo consultar los Reglamentos Internos de las comunidades indígenas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/reglamentos_internos_a_las_comunidades_indigenas"
+    },
+    {
+        "Id_total": 152,
+        "Id_local": 4,
+        "pregunta": "¿Qué debo hacer en caso de ser discriminado?",
+        "link": "https://www.legalapp.gov.co/temajusticia/discriminacion"
+    },
+    {
+        "Id_total": 153,
+        "Id_local": 5,
+        "pregunta": "¿Qué debo hacer si pertenezco a una comunidad indígena que ha despojada de su territorio?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Restitucion_territorial_colectiva_para_pueblos_indigenas"
+    },
+    {
+        "Id_total": 154,
+        "Id_local": 6,
+        "pregunta": "¿Qué puedo hacer si soy indígena y deseo ingresar a la universidad, pero no cuento con los recursos económicos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Fondo_de_educacion_superior_para_pueblos_indigenas"
+    },
+    {
+        "Id_total": 155,
+        "Id_local": 7,
+        "pregunta": "¿Qué debo hacer si mi comunidad quiere solicitar la constitución o buscar la ampliación  del Resguardo Indígena?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Constitucion_y_ampliacion_de_resguardos_indigenas"
+    },
+    {
+        "Id_total": 156,
+        "Id_local": 1,
+        "pregunta": "¿Cuál es el trámite para despedir a una mujer embarazada o en licencia de maternidad, cuando existe una causa justificada para el despido?",
+        "link": "https://www.legalapp.gov.co/temajusticia/autorizacion_para_despido_de_mujer_embarazada_o_en_licencia_de_maternidad"
+    },
+    {
+        "Id_total": 157,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer si soy víctima o conozco una víctima de ataques con ácido?",
+        "link": "https://www.legalapp.gov.co/temajusticia/ataques_con_acido"
+    },
+    {
+        "Id_total": 158,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer para interrumpir legalmente un embarazo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/interrupcion_voluntaria_del_embarazo"
+    },
+    {
+        "Id_total": 159,
+        "Id_local": 4,
+        "pregunta": "¿Cuál es el trámite en caso de tener dudas sobre  la paternidad o maternidad  respecto de un hijo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/impugnacion_de_maternidad_o_paternidad"
+    },
+    {
+        "Id_total": 160,
+        "Id_local": 5,
+        "pregunta": "¿Qué puedo hacer en el trabajo si tengo que alimentar a mi hijo y no me dan permiso?",
+        "link": "https://www.legalapp.gov.co/temajusticia/descanso_para_lactancia"
+    },
+    {
+        "Id_total": 161,
+        "Id_local": 6,
+        "pregunta": "¿Cómo hacer para que una persona sea reconocida como padre o madre de un niño o niña?",
+        "link": "https://www.legalapp.gov.co/temajusticia/reconocimiento_de_paternidad_o_maternidad"
+    },
+    {
+        "Id_total": 162,
+        "Id_local": 7,
+        "pregunta": ": ¿Qué puedo hacer si mi pareja daña mis elementos de trabajo y me impide percibir un ingreso económico propio?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Violencia_economica_o_patrimonial"
+    },
+    {
+        "Id_total": 163,
+        "Id_local": 8,
+        "pregunta": "¿Qué debe hacerse si el colegio contempla expulsar a una estudiante al conocer que está embarazada?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Violencia_Psicologica"
+    },
+    {
+        "Id_total": 164,
+        "Id_local": 9,
+        "pregunta": "¿Qué hacer si una persona es agredida física, sexual, psicológica o económicamente, por motivo de su género o sexo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/violencia_de_genero"
+    },
+    {
+        "Id_total": 165,
+        "Id_local": 10,
+        "pregunta": "¿Qué debo hacer si me despidieron por estar embarazada o por encontrarme en licencia de maternidad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/despido_de_mujer_en_embarazo_o_en_licencia_de_maternidad"
+    },
+    {
+        "Id_total": 166,
+        "Id_local": 11,
+        "pregunta": "¿Qué debo hacer para cambiar el sexo que aparece en mi registro civil y la cédula?",
+        "link": "https://www.legalapp.gov.co/temajusticia/correccion_del_componente_sexo_en_el_registro_civil"
+    },
+    {
+        "Id_total": 167,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si soy víctima o conozco una víctima de ataques con ácido?",
+        "link": "https://www.legalapp.gov.co/temajusticia/ataques_con_acido"
+    },
+    {
+        "Id_total": 168,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer para que mis propiedades y bienes no ingresen a la sociedad conyugal/patrimonial una vez contraiga matrimonio o inicie unión marital de hecho?",
+        "link": "https://www.legalapp.gov.co/temajusticia/capitulaciones"
+    },
+    {
+        "Id_total": 169,
+        "Id_local": 3,
+        "pregunta": "¿Qué debemos hacer si somos pareja del mismo sexo y queremos registrar a nuestro hijo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/registro_de_hijos_de_parejas_del_mismo_sexo"
+    },
+    {
+        "Id_total": 170,
+        "Id_local": 4,
+        "pregunta": "¿Qué debo hacer en caso de ser discriminado?",
+        "link": "https://www.legalapp.gov.co/temajusticia/discriminacion"
+    },
+    {
+        "Id_total": 171,
+        "Id_local": 5,
+        "pregunta": "¿Qué es la porción conyugal y que hago para solicitarla?",
+        "link": "https://www.legalapp.gov.co/temajusticia/porcion_conyugal"
+    },
+    {
+        "Id_total": 172,
+        "Id_local": 6,
+        "pregunta": "¿Qué hacer para solicitarle alimentos a mi pareja?",
+        "link": "https://www.legalapp.gov.co/temajusticia/derecho-de-alimentos-entre-esposos-o-parejas"
+    },
+    {
+        "Id_total": 173,
+        "Id_local": 7,
+        "pregunta": "¿Qué debo hacer para afiliar a mi pareja como beneficiaria del sistema de salud?",
+        "link": "https://www.legalapp.gov.co/temajusticia/afiliacion-de-la-pareja-al-sistema-de-salud-como-beneficiaria"
+    },
+    {
+        "Id_total": 174,
+        "Id_local": 8,
+        "pregunta": "¿Qué debo hacer si me niegan la entrada a un lugar en razón de mi raza, sexo, orientación sexual, identidad de género, condición socio económica o discapacidad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Limitar_el_ingreso_a_lugares_abiertos_al_publico_o_eventos_publicos"
+    },
+    {
+        "Id_total": 175,
+        "Id_local": 9,
+        "pregunta": "¿Qué hacer si una persona es agredida física, sexual, psicológica o económicamente, por motivo de su género o sexo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/violencia_de_genero"
+    },
+    {
+        "Id_total": 176,
+        "Id_local": 10,
+        "pregunta": "¿Cuál es el trámite para la adopción de un niño?",
+        "link": "https://www.legalapp.gov.co/temajusticia/adopcion"
+    },
+    {
+        "Id_total": 177,
+        "Id_local": 11,
+        "pregunta": "¿Qué debo hacer para cambiar el sexo que aparece en mi registro civil y la cédula?",
+        "link": "https://www.legalapp.gov.co/temajusticia/correccion_del_componente_sexo_en_el_registro_civil"
+    },
+    {
+        "Id_total": 178,
+        "Id_local": 1,
+        "pregunta": "¿Cómo puedo saber si debo declarar renta y cuál es el trámite para hacerlo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/declaracion_de_renta_de_persona_natural"
+    },
+    {
+        "Id_total": 179,
+        "Id_local": 2,
+        "pregunta": "¿Qué hacer para presentar un recurso de reconsideración?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Recurso_de_reconsideracion"
+    },
+    {
+        "Id_total": 180,
+        "Id_local": 3,
+        "pregunta": "¿Cuál es el trámite para sacar el RUT?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Inscripcion_en_el_Registro_Unico_Tributario"
+    },
+    {
+        "Id_total": 181,
+        "Id_local": 4,
+        "pregunta": "¿Cómo se tramita la insolvencia de mi empresa si tengo varios acreedores en diferentes países?",
+        "link": "https://www.legalapp.gov.co/temajusticia/insolvencia_transfronteriza"
+    },
+    {
+        "Id_total": 182,
+        "Id_local": 1,
+        "pregunta": "¿Qué hacer si me roban, se me pierde o se daña la letra de cambio, cheque o pagaré?",
+        "link": "https://www.legalapp.gov.co/temajusticia/perdida_danioo_o_hurto_de_un_titulo_valor"
+    },
+    {
+        "Id_total": 183,
+        "Id_local": 2,
+        "pregunta": "¿Cómo se elabora y cuando debe pagarse una letra de cambio?",
+        "link": "https://www.legalapp.gov.co/temajusticia/creacion-y-pago-de-una-letra-de-cambio"
+    },
+    {
+        "Id_total": 184,
+        "Id_local": 1,
+        "pregunta": "¿Cómo puedo saber si debo declarar renta y cuál es el trámite para hacerlo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/declaracion_de_renta_de_persona_natural"
+    },
+    {
+        "Id_total": 185,
+        "Id_local": 2,
+        "pregunta": "¿Cómo hacer para que en la realización de un determinado proyecto se aseguren los recursos de los interesados o inversionistas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/fiducia-mercantil"
+    },
+    {
+        "Id_total": 186,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer si un competidor se está aprovechando de mi fama y haciéndole creer a los clientes que vendemos el mismo producto?",
+        "link": "https://www.legalapp.gov.co/temajusticia/competencia-desleal"
+    },
+    {
+        "Id_total": 187,
+        "Id_local": 4,
+        "pregunta": "¿Qué debo hacer para matricularme en el registro mercantil?",
+        "link": "https://www.legalapp.gov.co/temajusticia/registro_mercantil"
+    },
+    {
+        "Id_total": 188,
+        "Id_local": 5,
+        "pregunta": "¿Qué debo hacer en caso de haber emitido facturas de venta que no quieren pagar?",
+        "link": "https://www.legalapp.gov.co/temajusticia/pago-de-facturas"
+    },
+    {
+        "Id_total": 189,
+        "Id_local": 6,
+        "pregunta": "¿Cómo exigir el pago de un título valor a uno de los endosantes del mismo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Accion_cambiaria_de_regreso"
+    },
+    {
+        "Id_total": 190,
+        "Id_local": 7,
+        "pregunta": "¿Cómo exigir el pago de un título valor (letra de cambio, factura, cheque) al creador o aceptante del mismo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Accion_cambiaria_directa"
+    },
+    {
+        "Id_total": 191,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si quiere constituir una sociedad de acciones simplificada (SAS)?",
+        "link": "https://www.legalapp.gov.co/temajusticia/sociedad_de_acciones_simplificada"
+    },
+    {
+        "Id_total": 192,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer si quiero liquidar una sociedad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/disolucion-y-liquidacion-de-una-sociedad"
+    },
+    {
+        "Id_total": 193,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer para constituir una sociedad en comandita simple?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Sociedad_en_Comandita_Simple"
+    },
+    {
+        "Id_total": 194,
+        "Id_local": 4,
+        "pregunta": "¿Qué debo hacer para constituir una sociedad colectiva?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Sociedad_Colectiva"
+    },
+    {
+        "Id_total": 195,
+        "Id_local": 5,
+        "pregunta": "¿Qué debo hacer para constituir una sociedad en comandita por acciones?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Sociedad_en_Comandita_por_Acciones"
+    },
+    {
+        "Id_total": 196,
+        "Id_local": 6,
+        "pregunta": "¿Qué debo hacer para constituir una sociedad limitada?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Sociedad_de_Responsabilidad_Limitada"
+    },
+    {
+        "Id_total": 197,
+        "Id_local": 7,
+        "pregunta": "¿Qué debo hacer para constituir una sociedad anónima?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Sociedad_Anonima"
+    },
+    {
+        "Id_total": 198,
+        "Id_local": 8,
+        "pregunta": "¿Qué hacer para realizar la transformación o la fusión de una sociedad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Transformacion_y_fusion_de_sociedades"
+    },
+    {
+        "Id_total": 199,
+        "Id_local": 9,
+        "pregunta": "¿Qué hacer para realizar la apertura de la sucursal de una sociedad extranjera en Colombia?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Sociedad_extranjera_en_Colombia"
+    },
+    {
+        "Id_total": 200,
+        "Id_local": 10,
+        "pregunta": "¿Qué es una sociedad de hecho y qué implicaciones tiene?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Sociedad_de_hecho"
+    },
+    {
+        "Id_total": 201,
+        "Id_local": 11,
+        "pregunta": "¿Qué compromisos podría asumir una empresa para aplicar los DDHH como parte de su política de Responsabilidad Social Empresarial?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Aplicacion_de_los_DDHH_en_la_Responsabilidad_Social_Empresaria"
+    },
+    {
+        "Id_total": 202,
+        "Id_local": 12,
+        "pregunta": "¿Qué hacer si no puedo pagar mis deudas y soy empresario o comerciante?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Insolvencia_de_persona_comerciante"
+    },
+    {
+        "Id_total": 203,
+        "Id_local": 13,
+        "pregunta": "¿Qué hacer si tengo desacuerdos o conflictos con un socio de mi empresa?",
+        "link": "https://www.legalapp.gov.co/temajusticia/conflicto_entre_socios"
+    },
+    {
+        "Id_total": 204,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si quiero arrendar un local comercial y qué derechos tengo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/arrendamiento_comercial"
+    },
+    {
+        "Id_total": 205,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer si quiero comprar o vender un local comercial?",
+        "link": "https://www.legalapp.gov.co/temajusticia/compraventa_de_establecimiento_de_comercio"
+    },
+    {
+        "Id_total": 206,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer para abrir un establecimiento de comercio?",
+        "link": "https://www.legalapp.gov.co/temajusticia/apertura_establecimiento_de_comercio"
+    },
+    {
+        "Id_total": 207,
+        "Id_local": 4,
+        "pregunta": "¿Qué son los libros de comercio y cómo se deben registrar?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Registro_de_libros_de_comercio"
+    },
+    {
+        "Id_total": 208,
+        "Id_local": 1,
+        "pregunta": "¿Cómo puedo terminar el contrato de arrendamiento de un local comercial después de dos años si soy el arrendador?",
+        "link": "https://www.legalapp.gov.co/temajusticia/terminacion-del-contrato-de-arrendamiento-de-un-local-comercial-de-mas-de-dos-anos-de-duracion-por-parte-del-arrendador"
+    },
+    {
+        "Id_total": 209,
+        "Id_local": 2,
+        "pregunta": "¿Cómo puedo terminar el contrato de arrendamiento de un local comercial de menos de dos años, si soy el arrendador?",
+        "link": "https://www.legalapp.gov.co/temajusticia/terminacion-del-contrato-de-arrendamiento-de-un-local-comercial-de-menos-de-dos-anos-de-duracion-por-parte-del-arrendador"
+    },
+    {
+        "Id_total": 210,
+        "Id_local": 3,
+        "pregunta": "¿Cómo puedo terminar el contrato de arrendamiento de un local comercial si soy el arrendatario?",
+        "link": "https://www.legalapp.gov.co/temajusticia/terminacion-del-contrato-de-arrendamiento-de-un-local-comercial-por-parte-del-arrendatario"
+    },
+    {
+        "Id_total": 211,
+        "Id_local": 4,
+        "pregunta": "¿Qué debo hacer si he dejado un bien bajo el cuidado y custodia de un tercero, pero este termina robado o dañado?",
+        "link": "https://www.legalapp.gov.co/temajusticia/contrato-de-deposito"
+    },
+    {
+        "Id_total": 212,
+        "Id_local": 5,
+        "pregunta": "¿Qué debo hacer para contratar el suministro de bienes y servicios que requiero continuamente?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Contrato_de_suministro_comercial"
+    },
+    {
+        "Id_total": 213,
+        "Id_local": 6,
+        "pregunta": "¿Qué debo hacer si quiero realizar un contrato de transporte comercial ya sea de mercancías o de personas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Contrato_de_transporte_comercial"
+    },
+    {
+        "Id_total": 214,
+        "Id_local": 7,
+        "pregunta": "¿Qué hacer para publicar, distribuir y comercializar una obra literaria, artística o científica?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Contrato_de_edicion"
+    },
+    {
+        "Id_total": 215,
+        "Id_local": 8,
+        "pregunta": "¿Qué hacer para realizar un contrato de agencia comercial?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Angencia_Comercial"
+    },
+    {
+        "Id_total": 216,
+        "Id_local": 9,
+        "pregunta": "¿Cómo se elabora un contrato de leasing?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Contrato_de_Leasing"
+    },
+    {
+        "Id_total": 217,
+        "Id_local": 10,
+        "pregunta": "¿Cómo se elabora un contrato de catering?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Contrato_de_catering"
+    },
+    {
+        "Id_total": 218,
+        "Id_local": 11,
+        "pregunta": "¿Cómo se elabora un contrato de franquicia?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Contrato_de_franquicia"
+    },
+    {
+        "Id_total": 219,
+        "Id_local": 12,
+        "pregunta": "¿Cómo se elabora un contrato de Joint Venture?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Contrato_de_JointVenture"
+    },
+    {
+        "Id_total": 220,
+        "Id_local": 13,
+        "pregunta": "¿Cómo se elabora un contrato de outsourcing?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Contrato_de_Outsourcing"
+    },
+    {
+        "Id_total": 221,
+        "Id_local": 14,
+        "pregunta": "¿Cómo se elabora un contrato de distribución?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Contrato_de_distribucion"
+    },
+    {
+        "Id_total": 222,
+        "Id_local": 15,
+        "pregunta": "¿Cómo se elabora un contrato de factoring?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Contrato_de_factoring"
+    },
+    {
+        "Id_total": 223,
+        "Id_local": 16,
+        "pregunta": "¿Cómo se elabora un contrato de consorcio?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Contrato_de_consorcio"
+    },
+    {
+        "Id_total": 224,
+        "Id_local": 17,
+        "pregunta": "¿Cómo se elabora un contrato de unión temporal?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Contrato_de_union_temporal"
+    },
+    {
+        "Id_total": 225,
+        "Id_local": 18,
+        "pregunta": "¿Qué efectos tiene y para qué sirve el contrato de compraventa con reserva de dominio?",
+        "link": "https://www.legalapp.gov.co/temajusticia/contrato_de_compraventa_con_reserva_de_dominio"
+    },
+    {
+        "Id_total": 226,
+        "Id_local": 1,
+        "pregunta": "¿Qué es el auxilio de transporte y qué hacer si no se reconoce o paga?",
+        "link": "https://www.legalapp.gov.co/temajusticia/auxilio_de_transporte_no_pago_de_prestaciones"
+    },
+    {
+        "Id_total": 227,
+        "Id_local": 2,
+        "pregunta": "¿Qué es la prima de servicios y qué hacer si no se reconoce o paga?",
+        "link": "https://www.legalapp.gov.co/temajusticia/prima_de_servicios_no_pago_de_prestaciones"
+    },
+    {
+        "Id_total": 228,
+        "Id_local": 3,
+        "pregunta": "¿Qué son las vacaciones y qué hacer si no se reconocen o pagan?",
+        "link": "https://www.legalapp.gov.co/temajusticia/vacaciones_no_pago_de_prestaciones"
+    },
+    {
+        "Id_total": 229,
+        "Id_local": 4,
+        "pregunta": "¿Qué derechos tiene quien trabaja en días de descanso, como domingos y festivos, y qué hacer si no se los reconocen o pagan?",
+        "link": "https://www.legalapp.gov.co/temajusticia/trabajo_en_dias_de_descanso_no_pago_de_salarios"
+    },
+    {
+        "Id_total": 230,
+        "Id_local": 5,
+        "pregunta": "¿Qué son las cesantías y qué hacer si no las reconocen o pagan?",
+        "link": "https://www.legalapp.gov.co/temajusticia/cesantias_no_pago_de_prestaciones"
+    },
+    {
+        "Id_total": 231,
+        "Id_local": 6,
+        "pregunta": "¿Qué hacer si no me reconocen o pagan las prestaciones por sufrir una enfermedad laboral?",
+        "link": "https://www.legalapp.gov.co/temajusticia/enfermedad_laboral_no_pago_de_prestaciones"
+    },
+    {
+        "Id_total": 232,
+        "Id_local": 7,
+        "pregunta": "¿Qué hacer si no le reconocen las prestaciones por haber sufrido un accidente de trabajo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/accidente_de_trabajo_no_pago_de_prestaciones"
+    },
+    {
+        "Id_total": 233,
+        "Id_local": 8,
+        "pregunta": "¿Cómo acceder a la licencia de maternidad y qué hacer si no la reconocen o pagan?",
+        "link": "https://www.legalapp.gov.co/temajusticia/solicitud_de_licencia_de_maternidad_no_pago_de_prestaciones"
+    },
+    {
+        "Id_total": 234,
+        "Id_local": 9,
+        "pregunta": "¿Cómo acceder a la licencia de paternidad y qué hacer si no la reconocen o pagan?",
+        "link": "https://www.legalapp.gov.co/temajusticia/solicitud_de_licencia_de_paternidad_no_pago_de_prestaciones"
+    },
+    {
+        "Id_total": 235,
+        "Id_local": 10,
+        "pregunta": "¿Qué es la dotación y qué hacer si no se la reconocen o pagan?",
+        "link": "https://www.legalapp.gov.co/temajusticia/calzado_y_vestido_de_labor_no_pago_de_prestaciones"
+    },
+    {
+        "Id_total": 236,
+        "Id_local": 11,
+        "pregunta": "¿Qué es el descanso para lactancia y qué hacer si no lo reconocen?",
+        "link": "https://www.legalapp.gov.co/temajusticia/descansos_para_lactancia_no_pago_de_prestaciones"
+    },
+    {
+        "Id_total": 237,
+        "Id_local": 12,
+        "pregunta": "¿Qué hacer si no se afilia o paga la seguridad social del trabajador?",
+        "link": "https://www.legalapp.gov.co/temajusticia/no_pago_de_los_aportes_a_seguridad_social"
+    },
+    {
+        "Id_total": 238,
+        "Id_local": 13,
+        "pregunta": "¿Qué hacer si mi jefe no paga el sueldo o las prestaciones sociales?",
+        "link": "https://www.legalapp.gov.co/temajusticia/no_pago_de_salarios"
+    },
+    {
+        "Id_total": 239,
+        "Id_local": 1,
+        "pregunta": "¿Cuál es el trámite para despedir a una mujer embarazada o en licencia de maternidad, cuando existe una causa justificada para el despido?",
+        "link": "https://www.legalapp.gov.co/temajusticia/autorizacion_para_despido_de_mujer_embarazada_o_en_licencia_de_maternidad"
+    },
+    {
+        "Id_total": 240,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer para protegerme en caso de desempleo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/seguro_al_desempleo"
+    },
+    {
+        "Id_total": 241,
+        "Id_local": 3,
+        "pregunta": "¿Cómo puedo realizar mi trabajo fuera de la oficina?",
+        "link": "https://www.legalapp.gov.co/temajusticia/teletrabajo"
+    },
+    {
+        "Id_total": 242,
+        "Id_local": 4,
+        "pregunta": "¿Qué debo hacer si murió un familiar y necesito ausentarme del trabajo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/licencia_por_luto"
+    },
+    {
+        "Id_total": 243,
+        "Id_local": 5,
+        "pregunta": "¿Qué debo hacer si no estoy de acuerdo con el monto de la pensión que me fue entregada?",
+        "link": "https://www.legalapp.gov.co/temajusticia/inconformidad_con_el_monto_de_la_pension"
+    },
+    {
+        "Id_total": 244,
+        "Id_local": 6,
+        "pregunta": "¿Qué puedo hacer en el trabajo si tengo que alimentar a mi hijo y no me dan permiso?",
+        "link": "https://www.legalapp.gov.co/temajusticia/descanso_para_lactancia"
+    },
+    {
+        "Id_total": 245,
+        "Id_local": 7,
+        "pregunta": "¿Cómo liquidar un contrato de trabajo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/liquidacion_de_contrato_de_trabajo"
+    },
+    {
+        "Id_total": 246,
+        "Id_local": 8,
+        "pregunta": "Soy una persona en condición de discapacidad, ¿Qué puedo hacer para que me reintegren al trabajo si fui despedido sin justa causa?",
+        "link": "https://www.legalapp.gov.co/temajusticia/reintegro_al_trabajo_a_causa_del_despido_de_una_persona_con_discapacidad"
+    },
+    {
+        "Id_total": 247,
+        "Id_local": 9,
+        "pregunta": "¿Qué se debe hacer para que un adolescente pueda trabajar?",
+        "link": "https://www.legalapp.gov.co/temajusticia/autorizacion_a_menores_para_trabajar"
+    },
+    {
+        "Id_total": 248,
+        "Id_local": 10,
+        "pregunta": "¿Qué es el periodo de prueba?",
+        "link": "https://www.legalapp.gov.co/temajusticia/periodo-de-prueba"
+    },
+    {
+        "Id_total": 249,
+        "Id_local": 11,
+        "pregunta": "¿Qué se debe hacer para que un empleador pueda  establecer horas extras a sus trabajadores?",
+        "link": "https://www.legalapp.gov.co/temajusticia/autorizacion_para_horas_extras"
+    },
+    {
+        "Id_total": 250,
+        "Id_local": 12,
+        "pregunta": "¿Qué debo hacer para que se me conceda permiso en mi trabajo en caso de una situación grave e imprevista?",
+        "link": "https://www.legalapp.gov.co/temajusticia/licencia_de_calamidad_domestica"
+    },
+    {
+        "Id_total": 251,
+        "Id_local": 13,
+        "pregunta": "¿Qué debo hacer si sufro un accidente de trabajo o una enfermedad laboral?",
+        "link": "https://www.legalapp.gov.co/temajusticia/informar_un_accidente_de_trabajo_o_enfermedad_laboral"
+    },
+    {
+        "Id_total": 252,
+        "Id_local": 14,
+        "pregunta": "¿Cómo  y quién paga el salario durante una incapacidad laboral?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Incapacidades_laborales"
+    },
+    {
+        "Id_total": 253,
+        "Id_local": 15,
+        "pregunta": "¿Qué es el subsidio familiar y qué hacer si no se reconoce o paga?",
+        "link": "https://www.legalapp.gov.co/temajusticia/subsidio_familiar"
+    },
+    {
+        "Id_total": 254,
+        "Id_local": 16,
+        "pregunta": "¿Qué se debe hacer para implementar una sala de lactancia en empresas o entidades públicas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Implementacion_de_salas_de_lactancia"
+    },
+    {
+        "Id_total": 255,
+        "Id_local": 17,
+        "pregunta": "¿Qué se puede descontar del salario de un trabajador?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Descuentos_salariales"
+    },
+    {
+        "Id_total": 256,
+        "Id_local": 18,
+        "pregunta": "¿Qué son las bonificaciones laborales?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Bonificaciones_laborales"
+    },
+    {
+        "Id_total": 257,
+        "Id_local": 19,
+        "pregunta": "¿Qué son los intereses de cesantías y cuándo deben pagarse?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Intereses_a_las_cesantias"
+    },
+    {
+        "Id_total": 258,
+        "Id_local": 20,
+        "pregunta": "¿En qué consiste la convención colectiva y quienes hacen parte de ella?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Convencion_colectiva"
+    },
+    {
+        "Id_total": 259,
+        "Id_local": 21,
+        "pregunta": "¿En qué consiste el pacto colectivo y quienes hacen parte de ella?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Pacto_Colectivo"
+    },
+    {
+        "Id_total": 260,
+        "Id_local": 22,
+        "pregunta": "¿Qué hacer para reclamar las prestaciones y salarios no pagados a mi familiar fallecido?",
+        "link": "https://www.legalapp.gov.co/temajusticia/reclamar_prestaciones_de_trabajador_fallecido_no_pago_de_prestaciones"
+    },
+    {
+        "Id_total": 261,
+        "Id_local": 23,
+        "pregunta": "¿Qué debo hacer si no he cumplido los requisitos para obtener la pensión de vejez y no he podido seguir cotizando?",
+        "link": "https://www.legalapp.gov.co/temajusticia/indemnizacion_sustitutiva_o_devolucion_de_saldos"
+    },
+    {
+        "Id_total": 262,
+        "Id_local": 24,
+        "pregunta": "¿Qué hacer si soy víctima de acoso laboral?",
+        "link": "https://www.legalapp.gov.co/temajusticia/acoso_laboral"
+    },
+    {
+        "Id_total": 263,
+        "Id_local": 1,
+        "pregunta": "¿Cuál es el trámite para despedir a una mujer embarazada o en licencia de maternidad, cuando existe una causa justificada para el despido?",
+        "link": "https://www.legalapp.gov.co/temajusticia/autorizacion_para_despido_de_mujer_embarazada_o_en_licencia_de_maternidad"
+    },
+    {
+        "Id_total": 264,
+        "Id_local": 2,
+        "pregunta": "¿Qué puedo hacer si me despidieron del trabajo por causa de mi condición de discapacidad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/despido_sin_justa_causa_de_persona_con_discapacidad"
+    },
+    {
+        "Id_total": 265,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer si fui despedido de la empresa donde trabajaba sin ninguna justificación?",
+        "link": "https://www.legalapp.gov.co/temajusticia/despido_sin_justa_causa"
+    },
+    {
+        "Id_total": 266,
+        "Id_local": 4,
+        "pregunta": "¿Qué hacer si me despiden del trabajo a pesar de tener fuero sindical?",
+        "link": "https://www.legalapp.gov.co/temajusticia/despido-de-trabajador-con-fuero-sindical"
+    },
+    {
+        "Id_total": 267,
+        "Id_local": 5,
+        "pregunta": "¿Qué hacer si despiden a los trabajadores mientras se adelanta una negociación colectiva?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Despido_de_trabajador_con_fuero_circunstancial"
+    },
+    {
+        "Id_total": 268,
+        "Id_local": 6,
+        "pregunta": "¿Cuál es el trámite para despedir a un trabajador, por una causa justificada?",
+        "link": "https://www.legalapp.gov.co/temajusticia/despido_con_justa_causa"
+    },
+    {
+        "Id_total": 269,
+        "Id_local": 7,
+        "pregunta": "¿Qué debo hacer si deseo renunciar a mi actual trabajo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/renuncia_contrato_laboral"
+    },
+    {
+        "Id_total": 270,
+        "Id_local": 8,
+        "pregunta": "¿Qué hacer si soy víctima de acoso laboral?",
+        "link": "https://www.legalapp.gov.co/temajusticia/acoso_laboral"
+    },
+    {
+        "Id_total": 271,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si tengo escasos recursos y quiero ahorrar para mi vejez y así lograr una pensión o ingreso periódico que ayude a mi sostenimiento?",
+        "link": "https://www.legalapp.gov.co/temajusticia/beps"
+    },
+    {
+        "Id_total": 272,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer si tengo escasos recursos y quiero ahorrar para mi vejez y así sumar mis aportes a Colpensiones para lograr una pensión o ingreso periódico que ayude a mi sostenimiento?",
+        "link": "https://www.legalapp.gov.co/temajusticia/beps_colpensiones"
+    },
+    {
+        "Id_total": 273,
+        "Id_local": 3,
+        "pregunta": "¿Qué hacer si tengo escasos recursos y quiero ahorrar para mi vejez y así sumar mis aportes a Fondos de pensiones privados para lograr una pensión o ingreso periódico que ayude a mi sostenimiento?",
+        "link": "https://www.legalapp.gov.co/temajusticia/beps_fondos_privados"
+    },
+    {
+        "Id_total": 274,
+        "Id_local": 4,
+        "pregunta": "¿Qué es la pensión de sobrevivientes y qué debo hacer para solicitarla?",
+        "link": "https://www.legalapp.gov.co/temajusticia/pension_de_sobrevivientes_muerte_de_un_pensionado"
+    },
+    {
+        "Id_total": 275,
+        "Id_local": 5,
+        "pregunta": "¿En qué consiste el Piso de Protección Social y quienes se podrán vincular?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Piso_de_Proteccion_Social"
+    },
+    {
+        "Id_total": 276,
+        "Id_local": 6,
+        "pregunta": "¿Cuáles son los requisitos para el traslado de fondo de pensiones?",
+        "link": "https://www.legalapp.gov.co/temajusticia/traslado_fondo_de_pensiones"
+    },
+    {
+        "Id_total": 277,
+        "Id_local": 7,
+        "pregunta": "¿Qué debo hacer para solicitar la pensión de invalidez por un accidente de trabajo o por una enfermedad originada por mis actividades laborales?",
+        "link": "https://www.legalapp.gov.co/temajusticia/pension_de_invalidez_profesional"
+    },
+    {
+        "Id_total": 278,
+        "Id_local": 8,
+        "pregunta": "¿Qué debo hacer para solicitar la pensión de invalidez por accidente o enfermedad  que no tienen relación con mis actividades laborales?",
+        "link": "https://www.legalapp.gov.co/temajusticia/pension_de_invalidez_no_profesional"
+    },
+    {
+        "Id_total": 279,
+        "Id_local": 9,
+        "pregunta": "¿Qué debo hacer para solicitar a la pensión de vejez?",
+        "link": "https://www.legalapp.gov.co/temajusticia/pension-de-vejez-laboral"
+    },
+    {
+        "Id_total": 280,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer para realizar un contrato de aprendizaje?",
+        "link": "https://www.legalapp.gov.co/temajusticia/contrato_de_aprendizaje"
+    },
+    {
+        "Id_total": 281,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer si quiero celebrar un contrato de trabajo por tiempo determinado?",
+        "link": "https://www.legalapp.gov.co/temajusticia/contrato-laboral-a-termino-fijo"
+    },
+    {
+        "Id_total": 282,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer si quiero celebrar un contrato de trabajo sin término definido?",
+        "link": "https://www.legalapp.gov.co/temajusticia/contrato-laboral-a-termino-indefinido"
+    },
+    {
+        "Id_total": 283,
+        "Id_local": 4,
+        "pregunta": "¿Qué se debe tener en cuenta al suscribir un contrato de prestación de servicios?",
+        "link": "https://www.legalapp.gov.co/temajusticia/contrato-de-prestacion-de-servicios"
+    },
+    {
+        "Id_total": 284,
+        "Id_local": 5,
+        "pregunta": "¿Qué debo hacer si quiero realizar una obra, mantenimiento o reparación en mi casa u oficina?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Contrato_de_obra"
+    },
+    {
+        "Id_total": 285,
+        "Id_local": 6,
+        "pregunta": "¿Qué debo hacer para celebrar un contrato de trabajo por tiempo máximo de un mes?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Contrato_de_trabajo_ocasional,_accidental_o_transitorio"
+    },
+    {
+        "Id_total": 286,
+        "Id_local": 7,
+        "pregunta": "¿Cómo hago para que declaren que soy empleado si no he firmado un contrato laboral?",
+        "link": "https://www.legalapp.gov.co/temajusticia/contrato_realidad"
+    },
+    {
+        "Id_total": 287,
+        "Id_local": 8,
+        "pregunta": "¿Qué derechos tienen los empleados del servicio doméstico y qué hacer si no se los reconocen?",
+        "link": "https://www.legalapp.gov.co/temajusticia/empleados_del_hogar_servicio_domestico"
+    },
+    {
+        "Id_total": 288,
+        "Id_local": 1,
+        "pregunta": "¿Qué puedo hacer si quiero registrar una marca para que nadie más la pueda utilizar?",
+        "link": "https://www.legalapp.gov.co/temajusticia/marcas"
+    },
+    {
+        "Id_total": 289,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer para proteger un invento?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Patente"
+    },
+    {
+        "Id_total": 290,
+        "Id_local": 3,
+        "pregunta": "¿Cómo puedo proteger una invención o mejora hecha a un objeto?",
+        "link": "https://www.legalapp.gov.co/temajusticia/patente-de-modelo-de-utilidad"
+    },
+    {
+        "Id_total": 291,
+        "Id_local": 4,
+        "pregunta": "¿Qué debo hacer para solicitar la licencia ambiental?",
+        "link": "https://www.legalapp.gov.co/temajusticia/solicitud-de-licencia-ambiental"
+    },
+    {
+        "Id_total": 292,
+        "Id_local": 5,
+        "pregunta": "¿Qué debo hacer para registrar una nueva variedad vegetal/animal o su mejoramiento?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Registro_de_obtencion_vegetal_y_animal"
+    },
+    {
+        "Id_total": 293,
+        "Id_local": 6,
+        "pregunta": "¿Qué debo hacer si tengo un problema relacionado con mi derecho de obtentor sobre variedades vegetales?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Conflicto_Obtencion_Vegetal"
+    },
+    {
+        "Id_total": 294,
+        "Id_local": 7,
+        "pregunta": "¿Qué puedo hacer si una persona usa fraudulentamente una marca o una patente de la que soy titular?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Usurpación_de_derechos_de_propiedad_industrial_y_derechos_de_obtentores_de_variedades_vegetales"
+    },
+    {
+        "Id_total": 295,
+        "Id_local": 8,
+        "pregunta": "¿Qué puedo hacer si una persona usa sin mi autorización una patente de la que soy titular?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Uso_Ilegítimo_de_Patentes"
+    },
+    {
+        "Id_total": 296,
+        "Id_local": 1,
+        "pregunta": "¿Qué hacer si publican o comercializan mi obra sin autorización?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Violación_a_los_derecho_de_autor_y_conexos"
+    },
+    {
+        "Id_total": 297,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer para registrar una obra literaria, artística, musical, programa informático y/o relacionado?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Derecho_de_Autor_(Registro)"
+    },
+    {
+        "Id_total": 298,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer si tengo un conflicto legal con la autoría de mi obra?",
+        "link": "https://www.legalapp.gov.co/temajusticia/conflictos_derechos_de_autor"
+    },
+    {
+        "Id_total": 299,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si conozco casos de violencia contra los animales?",
+        "link": "https://www.legalapp.gov.co/temajusticia/violencia_contra_animales_162"
+    },
+    {
+        "Id_total": 300,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer cuando veo que las personas no recogen los excrementos de sus animales?",
+        "link": "https://www.legalapp.gov.co/temajusticia/no-recoger-los-excrementos-de-los-animales-o-dejarlos-abandonados-después-de-recogidos"
+    },
+    {
+        "Id_total": 301,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer si  alguien saca a pasear a su perro de raza peligrosa sin bozal?",
+        "link": "https://www.legalapp.gov.co/temajusticia/pasear-animales-sin-las-adecuadas-medidas-de-seguridad"
+    },
+    {
+        "Id_total": 302,
+        "Id_local": 4,
+        "pregunta": "¿Qué debo hacer si conozco personas que tienen animales silvestres de mascotas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/tener-animales-silvestres-en-calidad-de-mascotas"
+    },
+    {
+        "Id_total": 303,
+        "Id_local": 1,
+        "pregunta": "¿Qué hacer si publican o comercializan mi obra sin autorización?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Violación_a_los_derecho_de_autor_y_conexos"
+    },
+    {
+        "Id_total": 304,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si me están amenazando?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Amenazas"
+    },
+    {
+        "Id_total": 305,
+        "Id_local": 2,
+        "pregunta": "¿Qué hacer si conozco que una persona tiene o vende armas sin permiso?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Fabricacion_y_trafico_de_armas"
+    },
+    {
+        "Id_total": 306,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si conozco de personas que denuncian hechos falsos; mienten acerca de quién los cometió o se atribuyen la comisión de delitos sin ser verdad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Falsas_imputaciones_ante_las_autoridades"
+    },
+    {
+        "Id_total": 307,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si conozco casos de corrupción?",
+        "link": "https://www.legalapp.gov.co/temajusticia/corrupcion"
+    },
+    {
+        "Id_total": 308,
+        "Id_local": 2,
+        "pregunta": "¿Qué hacer en caso de conocer de servidor público que recibe u ofrece dinero u otro beneficio para actuar contrario a sus deberes?",
+        "link": "https://www.legalapp.gov.co/temajusticia/cohecho"
+    },
+    {
+        "Id_total": 309,
+        "Id_local": 3,
+        "pregunta": "¿Qué hacer en caso de abuso de autoridad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/abuso-de-autoridad"
+    },
+    {
+        "Id_total": 310,
+        "Id_local": 4,
+        "pregunta": "¿Qué hacer en caso de que un servidor público intencionalmente me cause daño sin justificación alguna?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Prevaricato"
+    },
+    {
+        "Id_total": 311,
+        "Id_local": 5,
+        "pregunta": "¿Qué hacer si conozco de un servidor público que se apropia o usa indebidamente bienes del Estado?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Peculado"
+    },
+    {
+        "Id_total": 312,
+        "Id_local": 6,
+        "pregunta": "¿Qué se debe hacer en caso de que una persona mienta o engañe para recibir beneficios de recursos públicos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Fraude_a_Subvenciones"
+    },
+    {
+        "Id_total": 313,
+        "Id_local": 7,
+        "pregunta": "¿En qué casos se configura la celebración indebida de contratos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Celebracion_indebida_de_contratos"
+    },
+    {
+        "Id_total": 314,
+        "Id_local": 8,
+        "pregunta": "¿Qué debo hacer si un servidor público se aprovecha de su cargo para inducir o solicitar a alguien beneficios para sí mismo o para un tercero?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Concusion"
+    },
+    {
+        "Id_total": 315,
+        "Id_local": 9,
+        "pregunta": "¿Qué debo hacer si un servidor público o un particular utiliza la influencia de su cargo o posición para obtener beneficios?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Tráfico_de_influencias"
+    },
+    {
+        "Id_total": 316,
+        "Id_local": 1,
+        "pregunta": "¿Consignar una falsedad o falsificar un documento es un delito?",
+        "link": "https://www.legalapp.gov.co/temajusticia/falsedad-en-documentos-publico-o-privado"
+    },
+    {
+        "Id_total": 317,
+        "Id_local": 2,
+        "pregunta": "¿Qué puedo hacer si tengo antecedentes penales porque suplantaron mi identidad en un proceso penal?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Suplantacion_de_identidad_en_proceso_penal"
+    },
+    {
+        "Id_total": 318,
+        "Id_local": 3,
+        "pregunta": "¿Qué puedo hacer si estoy vinculado a un proceso penal por tener los mismos nombres que una persona que ha cometido delitos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Homonimia_en_proceso_penal"
+    },
+    {
+        "Id_total": 319,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer para solicitar la visita íntima si soy una persona privada de la libertad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/solicitud-de-visita-intima"
+    },
+    {
+        "Id_total": 320,
+        "Id_local": 2,
+        "pregunta": "¿Qué solicitud debo presentar para poder cumplir la pena en Colombia?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Traslado_de_Personas_Condenadas_(Repatriación)"
+    },
+    {
+        "Id_total": 321,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer para solicitar traslado de establecimiento carcelario o penitenciario?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Traslado_establecimiento_carcelario_o_penitenciario"
+    },
+    {
+        "Id_total": 322,
+        "Id_local": 4,
+        "pregunta": "¿Qué hacer para solicitar la visita a un familiar que se encuentra en un centro carcelario o penitenciario?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Visitas_en_centro_carcelario_o_penitenciario"
+    },
+    {
+        "Id_total": 323,
+        "Id_local": 5,
+        "pregunta": "¿Qué hacer para que una persona que está en la cárcel pueda solicitar permiso para asistir al funeral de un familiar?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Permiso_excepcional_de_recluso_por_muerte_de_familiar"
+    },
+    {
+        "Id_total": 324,
+        "Id_local": 6,
+        "pregunta": "¿En qué consiste la suspensión de la ejecución de la pena privativa de la libertad y quiénes pueden acceder a ella?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Suspension_ejecucion_de_la_pena"
+    },
+    {
+        "Id_total": 325,
+        "Id_local": 7,
+        "pregunta": "¿En qué consiste la libertad condicional  y quiénes pueden acceder a ella?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Libertad_condicional"
+    },
+    {
+        "Id_total": 326,
+        "Id_local": 8,
+        "pregunta": "¿Cuándo procede la conciliación preprocesal en materia penal?",
+        "link": "https://www.legalapp.gov.co/temajusticia/conciliacion_en_materia_penal"
+    },
+    {
+        "Id_total": 327,
+        "Id_local": 1,
+        "pregunta": "¿Qué hacer en caso que una persona, mediante declaraciones o hechos, dañe el buen nombre o prestigio de otra persona?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Injuria"
+    },
+    {
+        "Id_total": 328,
+        "Id_local": 2,
+        "pregunta": "¿Qué puedo hacer si alguien está diciendo a la luz pública que cometí un delito y esto es mentira?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Calumnia"
+    },
+    {
+        "Id_total": 329,
+        "Id_local": 3,
+        "pregunta": "¿Qué puedo hacer si estoy vinculado a un proceso penal por tener los mismos nombres que una persona que ha cometido delitos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Homonimia_en_proceso_penal"
+    },
+    {
+        "Id_total": 330,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si soy víctima o conozco algún delito o irregularidad electoral?",
+        "link": "https://www.legalapp.gov.co/temajusticia/elecciones"
+    },
+    {
+        "Id_total": 331,
+        "Id_local": 2,
+        "pregunta": "¿Qué hacer si alguien suplanta a otra persona para poder votar o vota más de una vez?",
+        "link": "https://www.legalapp.gov.co/temajusticia/voto_fraudulento"
+    },
+    {
+        "Id_total": 332,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer si veo que una persona altera los resultados de las elecciones?",
+        "link": "https://www.legalapp.gov.co/temajusticia/alteracion_de_resultados_electorales"
+    },
+    {
+        "Id_total": 333,
+        "Id_local": 4,
+        "pregunta": "¿Qué puedo hacer si una persona retiene o esconde mi cédula para impedirme votar?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Ocultamiento_retencion_y_posesion_ilicita_de_cedulas"
+    },
+    {
+        "Id_total": 334,
+        "Id_local": 5,
+        "pregunta": "¿Qué debo hacer si conozco el caso de una persona que vende los votos de un grupo de ciudadanos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/trafico_de_votos"
+    },
+    {
+        "Id_total": 335,
+        "Id_local": 6,
+        "pregunta": "¿Qué debo hacer en caso de que me ofrezcan plata u otros beneficios por mi voto?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Corrupcion_de_sufragante"
+    },
+    {
+        "Id_total": 336,
+        "Id_local": 7,
+        "pregunta": "¿Qué debo hacer si estoy siendo amenazado o presionado para no votar o para que lo haga por una determinada persona el día de las elecciones?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Constrenimiento_al_sufragante"
+    },
+    {
+        "Id_total": 337,
+        "Id_local": 8,
+        "pregunta": "¿Qué puedo hacer en caso de saber que se esté dando información falsa a las personas con el fin de que no voten?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Perturbacion_de_certamen_democratico"
+    },
+    {
+        "Id_total": 338,
+        "Id_local": 9,
+        "pregunta": "¿Qué debo hacer si sé que un candidato electo está inhabilitado para ocupar cargos públicos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/eleccion_ilicita"
+    },
+    {
+        "Id_total": 339,
+        "Id_local": 10,
+        "pregunta": "¿Qué debo hacer en caso de que me ofrezcan plata u otros beneficios por la inscripción de mi cédula?",
+        "link": "https://www.legalapp.gov.co/temajusticia/fraude_de_inscripcion_de_cedulas"
+    },
+    {
+        "Id_total": 340,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si conozco casos de violencia contra los animales?",
+        "link": "https://www.legalapp.gov.co/temajusticia/violencia_contra_animales_162"
+    },
+    {
+        "Id_total": 341,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer si conozco personas que tienen animales silvestres de mascotas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/tener-animales-silvestres-en-calidad-de-mascotas"
+    },
+    {
+        "Id_total": 342,
+        "Id_local": 3,
+        "pregunta": "¿Qué hacer si me roban una vaca, un caballo, cerdo u otro animal?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Abigeato(Hurtodeganado)"
+    },
+    {
+        "Id_total": 343,
+        "Id_local": 1,
+        "pregunta": "¿Qué hacer si sufro de matoneo en el colegio o conozco de alguna víctima del mismo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/matoneo_escolar"
+    },
+    {
+        "Id_total": 344,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer si soy víctima o conozco una víctima de ataques con ácido?",
+        "link": "https://www.legalapp.gov.co/temajusticia/ataques_con_acido"
+    },
+    {
+        "Id_total": 345,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer si soy agredido y perdí un miembro o se me generó una perturbación física o psicológica?",
+        "link": "https://www.legalapp.gov.co/temajusticia/lesiones-personales-perdi-un-miembro-o-se-me-genero-una-perturbacion-fisica-o-psicologica"
+    },
+    {
+        "Id_total": 346,
+        "Id_local": 4,
+        "pregunta": "¿Qué debo hacer si soy agredido físicamente?",
+        "link": "https://www.legalapp.gov.co/temajusticia/lesiones-personales-agresion-fisica"
+    },
+    {
+        "Id_total": 347,
+        "Id_local": 5,
+        "pregunta": "¿Qué debo hacer si fui atacado por un animal y me causó lesiones?",
+        "link": "https://www.legalapp.gov.co/temajusticia/ataques_de_perros_potencialmente_peligrosos"
+    },
+    {
+        "Id_total": 348,
+        "Id_local": 6,
+        "pregunta": "¿Qué debo hacer en caso de ser discriminado?",
+        "link": "https://www.legalapp.gov.co/temajusticia/discriminacion"
+    },
+    {
+        "Id_total": 349,
+        "Id_local": 7,
+        "pregunta": "¿Qué hacer si soy víctima de discriminación en razón de mi raza por parte de personal de vigilancia privada?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Discriminacion_racial_por_parte_de_personal_de_vigilancia_privada"
+    },
+    {
+        "Id_total": 350,
+        "Id_local": 8,
+        "pregunta": "¿Qué debo hacer si me niegan la entrada a un lugar en razón de mi raza, sexo, orientación sexual, identidad de género, condición socio económica o discapacidad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Limitar_el_ingreso_a_lugares_abiertos_al_publico_o_eventos_publicos"
+    },
+    {
+        "Id_total": 351,
+        "Id_local": 9,
+        "pregunta": "¿Qué debo hacer si un niño o una niña es víctima de trabajo infantil?",
+        "link": "https://www.legalapp.gov.co/temajusticia/trabajo_infantil"
+    },
+    {
+        "Id_total": 352,
+        "Id_local": 10,
+        "pregunta": "¿Qué debo hacer si sé que una persona pudiendo salvarle la vida o salud a otra no lo hace?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Omisión_de_Socorro"
+    },
+    {
+        "Id_total": 353,
+        "Id_local": 11,
+        "pregunta": "¿Qué debo hacer en caso de conocer o ser testigo de un homicidio?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Homicidio"
+    },
+    {
+        "Id_total": 354,
+        "Id_local": 12,
+        "pregunta": "¿Qué hacer si conozco que una persona tiene o vende armas sin permiso?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Fabricacion_y_trafico_de_armas"
+    },
+    {
+        "Id_total": 355,
+        "Id_local": 13,
+        "pregunta": "¿Qué hacer si una persona es agredida física, sexual, psicológica o económicamente, por motivo de su género o sexo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/violencia_de_genero"
+    },
+    {
+        "Id_total": 356,
+        "Id_local": 14,
+        "pregunta": "¿Cuándo se considera que hay aborto sin consentimiento?",
+        "link": "https://www.legalapp.gov.co/temajusticia/aborto_sin_consentimiento"
+    },
+    {
+        "Id_total": 357,
+        "Id_local": 15,
+        "pregunta": "¿En qué consiste el delito de lesiones al feto?",
+        "link": "https://www.legalapp.gov.co/temajusticia/lesiones_al_feto"
+    },
+    {
+        "Id_total": 358,
+        "Id_local": 16,
+        "pregunta": "¿Qué debo hacer si conozco casos de  tráfico niñas, niños o adolescentes?",
+        "link": "https://www.legalapp.gov.co/temajusticia/trafico_de_nios_nias_y_adolescentes"
+    },
+    {
+        "Id_total": 359,
+        "Id_local": 17,
+        "pregunta": "¿Qué debo hacer si estoy involucrado en un accidente de tránsito y hay personas lesionadas o fallecidas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/accidente_de_transito_con_lesionados"
+    },
+    {
+        "Id_total": 360,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si conozco a un adolescente que cometió un delito?",
+        "link": "https://www.legalapp.gov.co/temajusticia/responsabilidad_penal_de_adolescentes"
+    },
+    {
+        "Id_total": 361,
+        "Id_local": 2,
+        "pregunta": "¿Cómo notificar una desaparición y cómo lograr que se declare la muerte presunta de una persona?",
+        "link": "https://www.legalapp.gov.co/temajusticia/desapariciones"
+    },
+    {
+        "Id_total": 362,
+        "Id_local": 3,
+        "pregunta": "¿Qué puedo hacer si conozco casos de personas que son trasladadas a otro país o ciudad para ser explotadas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/trata_de_personas"
+    },
+    {
+        "Id_total": 363,
+        "Id_local": 4,
+        "pregunta": "¿Qué puedo hacer si conozco casos de personas que son trasladadas de un país a otro de manera ilegal?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Tráfico_de_Migrantes"
+    },
+    {
+        "Id_total": 364,
+        "Id_local": 5,
+        "pregunta": "¿Qué debo hacer si conozco casos de secuestro?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Secuestro"
+    },
+    {
+        "Id_total": 365,
+        "Id_local": 6,
+        "pregunta": "¿Qué debo hacer si me han torturado o conozco de alguien que haya sido víctima de este delito?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Tortura"
+    },
+    {
+        "Id_total": 366,
+        "Id_local": 7,
+        "pregunta": "¿Qué debo hacer si  me detienen ilegalmente o se prolonga de manera indefinida?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Detención_Arbitraria"
+    },
+    {
+        "Id_total": 367,
+        "Id_local": 8,
+        "pregunta": "¿Qué hacer sí conozco que un menor fue vinculado a un grupo armado?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Reclutamiento_Forzado"
+    },
+    {
+        "Id_total": 368,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si no me quieren seguir pagando los alimentos sin ninguna justificación?",
+        "link": "https://www.legalapp.gov.co/temajusticia/inasistencia_alimentaria"
+    },
+    {
+        "Id_total": 369,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer si conozco a un menor que es maltratado?",
+        "link": "https://www.legalapp.gov.co/temajusticia/maltrato_infantil"
+    },
+    {
+        "Id_total": 370,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer si conozco del abandono de un niño, niña o adolescente?",
+        "link": "https://www.legalapp.gov.co/temajusticia/abandono_de_menores"
+    },
+    {
+        "Id_total": 371,
+        "Id_local": 4,
+        "pregunta": "¿Qué debo hacer si conozco casos de maltrato o abandono de un adulto mayor?",
+        "link": "https://www.legalapp.gov.co/temajusticia/abandono-de-adulto-mayor"
+    },
+    {
+        "Id_total": 372,
+        "Id_local": 5,
+        "pregunta": "¿Qué hacer sí conozco que un menor fue vinculado a un grupo armado?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Reclutamiento_Forzado"
+    },
+    {
+        "Id_total": 373,
+        "Id_local": 6,
+        "pregunta": "¿Qué hacer si es víctima de agresiones por un familiar cercano?",
+        "link": "https://www.legalapp.gov.co/temajusticia/violencia_intrafamiliar"
+    },
+    {
+        "Id_total": 374,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si sufro o conozco a alguna víctima de ciberbullying?",
+        "link": "https://www.legalapp.gov.co/temajusticia/cibermatoneo"
+    },
+    {
+        "Id_total": 375,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer si compartí fotos o vídeos por internet y los están usando sin mi consentimiento?",
+        "link": "https://www.legalapp.gov.co/temajusticia/sexting"
+    },
+    {
+        "Id_total": 376,
+        "Id_local": 3,
+        "pregunta": "¿Qué puedo hacer si tengo antecedentes penales porque suplantaron mi identidad en un proceso penal?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Suplantacion_de_identidad_en_proceso_penal"
+    },
+    {
+        "Id_total": 377,
+        "Id_local": 4,
+        "pregunta": "¿Qué puedo hacer si estoy vinculado a un proceso penal por tener los mismos nombres que una persona que ha cometido delitos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Homonimia_en_proceso_penal"
+    },
+    {
+        "Id_total": 378,
+        "Id_local": 5,
+        "pregunta": "¿Qué puedo hacer cuando alguien saca, sin permiso, la información de mi correo electrónico o la información del sistema financiero de la empresa?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Interceptacion_de_datos_informaticos"
+    },
+    {
+        "Id_total": 379,
+        "Id_local": 6,
+        "pregunta": "¿Qué puedo hacer cuando alguien daña o borra los programas o la información que tengo en mi computador o el de la empresa?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Daño_informatico"
+    },
+    {
+        "Id_total": 380,
+        "Id_local": 7,
+        "pregunta": "¿Qué hacer si alguien accede sin permiso a un sistema informático como mi correo electrónico o el sistema contable de la empresa?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Acceso_abusivo_a_sistema_informatico"
+    },
+    {
+        "Id_total": 381,
+        "Id_local": 1,
+        "pregunta": "Soy menor de edad grabé un video sosteniendo relaciones sexuales, están comercializando el video en una página web, ¿Qué puedo hacer?",
+        "link": "https://www.legalapp.gov.co/temajusticia/pornografia_infantil"
+    },
+    {
+        "Id_total": 382,
+        "Id_local": 2,
+        "pregunta": "¿Qué puedo hacer si un adulto, toca, acaricia o realiza acciones de contenido sexual frente a un menor?",
+        "link": "https://www.legalapp.gov.co/temajusticia/acto_sexual_con_menor"
+    },
+    {
+        "Id_total": 383,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer si una persona adulta me persigue o busca contactarme por cualquier medio demostrando intenciones sexuales?",
+        "link": "https://www.legalapp.gov.co/temajusticia/acoso_sexual_en_menores"
+    },
+    {
+        "Id_total": 384,
+        "Id_local": 4,
+        "pregunta": "¿Qué puedo hacer si conozco casos o soy víctima de prostitución infantil?",
+        "link": "https://www.legalapp.gov.co/temajusticia/prostitucion_de_menores"
+    },
+    {
+        "Id_total": 385,
+        "Id_local": 5,
+        "pregunta": "¿Qué puedo hacer si conozco casos de turismo sexual con niños, niñas y adolescentes?",
+        "link": "https://www.legalapp.gov.co/temajusticia/turismo_sexual"
+    },
+    {
+        "Id_total": 386,
+        "Id_local": 6,
+        "pregunta": "¿Qué debo hacer si soy víctima de violación o conozco a alguien que lo está siendo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Acceso_carnal_violento"
+    },
+    {
+        "Id_total": 387,
+        "Id_local": 7,
+        "pregunta": "¿Qué debo hacer si alguien toca mis partes íntimas de forma violenta sin mi consentimiento?",
+        "link": "https://www.legalapp.gov.co/temajusticia/acto_sexual_violento"
+    },
+    {
+        "Id_total": 388,
+        "Id_local": 8,
+        "pregunta": "¿Qué hacer en caso de ser víctima o conocer de un abuso o violencia de tipo sexual?",
+        "link": "https://www.legalapp.gov.co/temajusticia/violencia_sexual"
+    },
+    {
+        "Id_total": 389,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si considero que soy víctima del delito de extorsión?",
+        "link": "https://www.legalapp.gov.co/temajusticia/extorsion"
+    },
+    {
+        "Id_total": 390,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer si me robaron el celular?",
+        "link": "https://www.legalapp.gov.co/temajusticia/hurto_de_celulares"
+    },
+    {
+        "Id_total": 391,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer si veo a alguien vendiendo o comprando celulares robados?",
+        "link": "https://www.legalapp.gov.co/temajusticia/comprar-o-vender-celulares-con-reporte-de-robo-o-extravio"
+    },
+    {
+        "Id_total": 392,
+        "Id_local": 4,
+        "pregunta": "¿Qué hacer en caso de robo en donde se utilice violencia o engaños?",
+        "link": "https://www.legalapp.gov.co/temajusticia/hurto-calificado"
+    },
+    {
+        "Id_total": 393,
+        "Id_local": 5,
+        "pregunta": "¿Qué debo hacer si se aprovecharon de mi confianza para sacar beneficio?",
+        "link": "https://www.legalapp.gov.co/temajusticia/abuso-de-confianza"
+    },
+    {
+        "Id_total": 394,
+        "Id_local": 6,
+        "pregunta": "¿Qué se debe hacer en caso que una persona dañe o destruya las cosas de otro?",
+        "link": "https://www.legalapp.gov.co/temajusticia/dano-en-bien-ajeno"
+    },
+    {
+        "Id_total": 395,
+        "Id_local": 7,
+        "pregunta": "¿Qué puedo hacer si me entregaron como pago un cheque sin fondos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Fraude_mediante_cheque"
+    },
+    {
+        "Id_total": 396,
+        "Id_local": 8,
+        "pregunta": "¿Qué debo hacer si utilizan mis datos personales sin mi consentimiento?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Violación_de_uso_de_datos_personales"
+    },
+    {
+        "Id_total": 397,
+        "Id_local": 9,
+        "pregunta": "¿Qué hacer si me roban una vaca, un caballo, cerdo u otro animal?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Abigeato(Hurtodeganado)"
+    },
+    {
+        "Id_total": 398,
+        "Id_local": 10,
+        "pregunta": "¿Qué hacer en caso de robo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/hurto"
+    },
+    {
+        "Id_total": 399,
+        "Id_local": 11,
+        "pregunta": "¿Qué hacer si le roban o se le pierden los documentos de identificación?",
+        "link": "https://www.legalapp.gov.co/temajusticia/perdida_o_robo_de_documentos"
+    },
+    {
+        "Id_total": 400,
+        "Id_local": 12,
+        "pregunta": "¿Qué debo hacer si considero que soy víctima del delito de estafa?",
+        "link": "https://www.legalapp.gov.co/temajusticia/estafa"
+    },
+    {
+        "Id_total": 401,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer en caso de conocer que alguien vende drogas ilícitas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Tráficodeestupefacientes"
+    },
+    {
+        "Id_total": 402,
+        "Id_local": 2,
+        "pregunta": "¿Qué puedo hacer si conozco a alguien que contagia de VIH o Hepatitis B a otras personas con intención?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Propagación_del_virus_de_inmunodeficiencia_humana_VIH_o_de_la_hepatitis_B"
+    },
+    {
+        "Id_total": 403,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer si conozco de cultivos de plantas relacionadas con la producción de drogas ilícitas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Conservación_o_financiación_de_plantaciones"
+    },
+    {
+        "Id_total": 404,
+        "Id_local": 4,
+        "pregunta": "¿Qué puedo hacer en caso de que personas inciten el consumo de drogas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Estímulo_al_uso_ilícito_de_drogas"
+    },
+    {
+        "Id_total": 405,
+        "Id_local": 5,
+        "pregunta": "¿Qué debo hacer si conozco de personas que portan escopolamina u otras sustancias semejantes?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Porte_de_sustancias"
+    },
+    {
+        "Id_total": 406,
+        "Id_local": 6,
+        "pregunta": "¿Qué debo hacer si le ofrecen drogas y/o sustancias psicoactivas a un menor?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Suministro_a_menor"
+    },
+    {
+        "Id_total": 407,
+        "Id_local": 7,
+        "pregunta": "¿Qué debo hacer para denunciar la existencia de un inmueble destinado a la elaboración y almacenamiento de drogas ilícitas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Destinación_ilicita_de_muebles_o_inmuebles"
+    },
+    {
+        "Id_total": 408,
+        "Id_local": 8,
+        "pregunta": "¿Qué debo hacer si conozco el caso de un médico que le formula ilegalmente a sus pacientes drogas que producen dependencia?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Suministro_o_formulación_ilegal"
+    },
+    {
+        "Id_total": 409,
+        "Id_local": 9,
+        "pregunta": "¿Cómo presentar una denuncia si fui víctima o conozco de un delito?",
+        "link": "https://www.legalapp.gov.co/temajusticia/denuncia"
+    },
+    {
+        "Id_total": 410,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer en caso de conocer casos de tráfico o comercialización de fauna silvestre o especies amenazadas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/ilicito-aprovechamiento-de-los-recursos-naturales-renovables-trafico-de-fauna-silvestre"
+    },
+    {
+        "Id_total": 411,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer si conozco casos en los que se contaminan los recursos naturales (suelo, aire y agua)?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Contaminacion_Ambiental"
+    },
+    {
+        "Id_total": 412,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer si conozco de casos en los que se afectan los recursos naturales de mi municipio indiscriminadamente?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Danos_en_los_recursos_naturales"
+    },
+    {
+        "Id_total": 413,
+        "Id_local": 4,
+        "pregunta": "¿Qué debo hacer si conozco de casos en los que una persona se apropia de terrenos ajenos, cambia linderos o desvía el curso de las aguas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Usurpacion_de_tierras_y/o_aguas"
+    },
+    {
+        "Id_total": 414,
+        "Id_local": 5,
+        "pregunta": "¿Qué puedo hacer si conozco que se está explorando o explotando una mina de manera ilegal?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Exploracion_y_explotacion_ilícita_de_minas"
+    },
+    {
+        "Id_total": 415,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si veo a alguien vendiendo o comprando bienes robados?",
+        "link": "https://www.legalapp.gov.co/temajusticia/receptacion"
+    },
+    {
+        "Id_total": 416,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer si conozco de un caso de contrabando?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Contrabando"
+    },
+    {
+        "Id_total": 417,
+        "Id_local": 3,
+        "pregunta": "¿Qué puedo hacer si una persona usa fraudulentamente una marca o una patente de la que soy titular?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Usurpación_de_derechos_de_propiedad_industrial_y_derechos_de_obtentores_de_variedades_vegetales"
+    },
+    {
+        "Id_total": 418,
+        "Id_local": 4,
+        "pregunta": "¿Qué puedo hacer si una persona usa sin mi autorización una patente de la que soy titular?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Uso_Ilegítimo_de_Patentes"
+    },
+    {
+        "Id_total": 419,
+        "Id_local": 5,
+        "pregunta": "¿Qué puedo hacer si una persona capta dinero del público de forma ilegal?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Captacion_masiva_y_habitual_de_dineros"
+    },
+    {
+        "Id_total": 420,
+        "Id_local": 6,
+        "pregunta": "¿Qué puedo hacer si conozco un caso de construcción ilegal de viviendas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Urbanización_Ilegal"
+    },
+    {
+        "Id_total": 421,
+        "Id_local": 7,
+        "pregunta": "¿Qué debo hacer si conozco de una organización que da apariencia de legalidad a los recursos generados en actividades delincuenciales?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Lavado_de_activos"
+    },
+    {
+        "Id_total": 422,
+        "Id_local": 8,
+        "pregunta": "¿Qué puedo hacer si conozco a una persona que se hace pasar por propietaria de bienes que en realidad pertenecen a narcotraficantes?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Testaferrato"
+    },
+    {
+        "Id_total": 423,
+        "Id_local": 9,
+        "pregunta": "¿Qué pasa si un servidor público o un particular aumenta su patrimonio injustificadamente?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Enriquecimiento_ilícito_servidor_público_y_particulares"
+    },
+    {
+        "Id_total": 424,
+        "Id_local": 10,
+        "pregunta": "¿Qué puedo hacer si me cobran una tasa de interés que supera los límites establecidos actualmente en un préstamo de dinero o similar?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Usura"
+    },
+    {
+        "Id_total": 425,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si mi abogado incumple con lo que le he encargado?",
+        "link": "https://www.legalapp.gov.co/temajusticia/regimen_disciplinario_de_los_abogados"
+    },
+    {
+        "Id_total": 426,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer si un funcionario se excede o incumple sus funciones afectando mis derechos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/regimen_disciplinarios_funcionarios_publicos"
+    },
+    {
+        "Id_total": 427,
+        "Id_local": 1,
+        "pregunta": "¿Qué son los datos personales y qué hacer para protegerlos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/habeas_data_proteccion_de_datos_personales"
+    },
+    {
+        "Id_total": 428,
+        "Id_local": 2,
+        "pregunta": "¿Qué hacer cuando por culpa del Estado se causan daños a los ciudadanos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/accion-de-reparacion-directa"
+    },
+    {
+        "Id_total": 429,
+        "Id_local": 3,
+        "pregunta": "¿Qué hacer para controvertir una decisión de una entidad pública que me es desfavorable?",
+        "link": "https://www.legalapp.gov.co/temajusticia/accion_de_nulidad_y_restablecimiento_del_derecho"
+    },
+    {
+        "Id_total": 430,
+        "Id_local": 4,
+        "pregunta": "¿Qué debo hacer para solicitar medidas de protección, debido a continuas amenazas por ser testigo y colaborar con la ley?",
+        "link": "https://www.legalapp.gov.co/temajusticia/medidas_de_proteccion_para_testigos_"
+    },
+    {
+        "Id_total": 431,
+        "Id_local": 1,
+        "pregunta": "¿Qué hacer si no estoy conforme con un servicio financiero o existen diferencias con un banco, aseguradora o compañía de financiamiento?",
+        "link": "https://www.legalapp.gov.co/temajusticia/quejas_contra_el_sistema_financiero"
+    },
+    {
+        "Id_total": 432,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer para presentar quejas por mala prestación en los servicios de transporte público?",
+        "link": "https://www.legalapp.gov.co/temajusticia/quejas_por_los_servicios_de_transporte_publico_terrestre"
+    },
+    {
+        "Id_total": 433,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer si vendí mi vehículo y no  hice el traspaso?",
+        "link": "https://www.legalapp.gov.co/temajusticia/traspaso_de_vehiculos"
+    },
+    {
+        "Id_total": 434,
+        "Id_local": 4,
+        "pregunta": "¿Qué debo hacer si estoy inconforme con el servicio prestado por la aerolínea?",
+        "link": "https://www.legalapp.gov.co/temajusticia/quejas_por_los_servicios_de_transporte_aereo"
+    },
+    {
+        "Id_total": 435,
+        "Id_local": 5,
+        "pregunta": "¿Qué debo hacer si realicé una compra y quiero devolver el producto que adquirí?",
+        "link": "https://www.legalapp.gov.co/temajusticia/derecho_de_retracto"
+    },
+    {
+        "Id_total": 436,
+        "Id_local": 6,
+        "pregunta": "¿Qué debo hacer para arreglar o corregir mi registro civil?",
+        "link": "https://www.legalapp.gov.co/temajusticia/correccion_de_errores_en_el_registro_civil"
+    },
+    {
+        "Id_total": 437,
+        "Id_local": 7,
+        "pregunta": "¿Qué hacer si no está conforme con el servicio de su EPS o IPS?",
+        "link": "https://www.legalapp.gov.co/temajusticia/quejas_contra_entidades_de_salud"
+    },
+    {
+        "Id_total": 438,
+        "Id_local": 8,
+        "pregunta": "¿Qué hacer para solicitar una licencia para cultivar plantas de cannabis no psicoactivo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Licencia_de_cultivo_de_plantas_de_cannabis_no_psicoactivo"
+    },
+    {
+        "Id_total": 439,
+        "Id_local": 9,
+        "pregunta": "¿Qué hacer para solicitar una licencia para cultivar plantas de cannabis psicoactivo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Licencia_de_cultivo_de_plantas_de_cannabis_psicoactivo"
+    },
+    {
+        "Id_total": 440,
+        "Id_local": 10,
+        "pregunta": "¿Qué debo hacer para obtener una licencia de fabricación de derivados de cannabis?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Licencia_de_fabricación_de_derivados_de_cannabis"
+    },
+    {
+        "Id_total": 441,
+        "Id_local": 11,
+        "pregunta": "¿Qué debo hacer para solicitar una licencia para el uso de semillas de cannabis?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Licencia_de_uso_de_semillas_para_siembra"
+    },
+    {
+        "Id_total": 442,
+        "Id_local": 12,
+        "pregunta": "¿Qué puedo hacer si conozco que se está explorando o explotando una mina de manera ilegal?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Exploracion_y_explotacion_ilícita_de_minas"
+    },
+    {
+        "Id_total": 443,
+        "Id_local": 13,
+        "pregunta": "¿Qué debo hacer para cambiar mi nombre en el registro civil y la cédula?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Cambio_de_nombre_y/o_apellido"
+    },
+    {
+        "Id_total": 444,
+        "Id_local": 14,
+        "pregunta": "¿Qué debo hacer para obtener mi licencia de conducción?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Licencia_o_pase_de_conduccion"
+    },
+    {
+        "Id_total": 445,
+        "Id_local": 15,
+        "pregunta": "¿Qué hacer para solicitar permiso o autorización para explorar o explotar una mina de manera legal?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Concesion_minera"
+    },
+    {
+        "Id_total": 446,
+        "Id_local": 16,
+        "pregunta": "Soy migrante venezolano, ¿qué debo hacer para que mi hijo(a) nacido(a) en Colombia obtenga la nacionalidad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Nacionalidad_colombiana_para_hijos_e_hijas_de_venezolanos"
+    },
+    {
+        "Id_total": 447,
+        "Id_local": 17,
+        "pregunta": "¿Qué es el silencio administrativo positivo y qué hacer para que surta efectos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Silencio_administrativo_positivo"
+    },
+    {
+        "Id_total": 448,
+        "Id_local": 18,
+        "pregunta": "¿Qué es el silencio administrativo negativo y cómo se configura?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Silencio_administrativo_negativo"
+    },
+    {
+        "Id_total": 449,
+        "Id_local": 19,
+        "pregunta": "¿Cómo se puede activar las rutas de atención para la prevención del reclutamiento de menores?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Atencion_prevencion_reclutamiento_de_menores"
+    },
+    {
+        "Id_total": 450,
+        "Id_local": 20,
+        "pregunta": "¿Cómo se puede obtener la visa de residencia en Colombia?",
+        "link": "https://www.legalapp.gov.co/temajusticia/residencia_en_colombia"
+    },
+    {
+        "Id_total": 451,
+        "Id_local": 21,
+        "pregunta": "¿Qué debo hacer si no estoy de acuerdo con el valor del impuesto predial?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Desacuerdo_con_impuesto_predial"
+    },
+    {
+        "Id_total": 452,
+        "Id_local": 22,
+        "pregunta": "¿Cómo solicitar ante Colpensiones el auxilio funerario por muerte del pensionado?",
+        "link": "https://www.legalapp.gov.co/temajusticia/auxilio_funerario"
+    },
+    {
+        "Id_total": 453,
+        "Id_local": 1,
+        "pregunta": "¿Cómo cobrar una deuda si no tengo como probarla?",
+        "link": "https://www.legalapp.gov.co/temajusticia/cobrar_una_deuda_sin_tener_como_probarla"
+    },
+    {
+        "Id_total": 454,
+        "Id_local": 2,
+        "pregunta": "¿Qué hacer si me incumplen un contrato?",
+        "link": "https://www.legalapp.gov.co/temajusticia/incumplimiento_de_contrato"
+    },
+    {
+        "Id_total": 455,
+        "Id_local": 3,
+        "pregunta": "¿Qué hacer si tengo desacuerdos o conflictos con un vecino de mi edificio o conjunto o con los administradores?",
+        "link": "https://www.legalapp.gov.co/temajusticia/conflicto_entre_copropietarios"
+    },
+    {
+        "Id_total": 456,
+        "Id_local": 4,
+        "pregunta": "¿A dónde puedo acudir si por las acciones u omisiones de un médico se empeora mi estado de salud?",
+        "link": "https://www.legalapp.gov.co/temajusticia/responsabilidad_medica"
+    },
+    {
+        "Id_total": 457,
+        "Id_local": 5,
+        "pregunta": "¿Qué hacer si no puedo pagar mis deudas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/insolvencia_de_persona_natural_no_comerciante"
+    },
+    {
+        "Id_total": 458,
+        "Id_local": 6,
+        "pregunta": "¿Qué debo hacer para constituir una fiducia?",
+        "link": "https://www.legalapp.gov.co/temajusticia/fiducia_civil"
+    },
+    {
+        "Id_total": 459,
+        "Id_local": 7,
+        "pregunta": "¿Qué debo hacer si deseo realizar un testamento?",
+        "link": "https://www.legalapp.gov.co/temajusticia/testamento"
+    },
+    {
+        "Id_total": 460,
+        "Id_local": 8,
+        "pregunta": "¿Cómo me puedo convertir en dueño de un predio sobre el cual he habitado hace mucho tiempo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/declaracion_de_pertenencia"
+    },
+    {
+        "Id_total": 461,
+        "Id_local": 9,
+        "pregunta": "¿Cuál es el trámite en caso de tener dudas sobre  la paternidad o maternidad  respecto de un hijo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/impugnacion_de_maternidad_o_paternidad"
+    },
+    {
+        "Id_total": 462,
+        "Id_local": 10,
+        "pregunta": "¿Qué debo hacer si un menor sufre o causa daños, perjuicios o lesiones a otra persona?",
+        "link": "https://www.legalapp.gov.co/temajusticia/responsabilidad_civil_en_menores"
+    },
+    {
+        "Id_total": 463,
+        "Id_local": 11,
+        "pregunta": "¿Cómo dividir un bien que le pertenece a varias personas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/proceso_divisorio"
+    },
+    {
+        "Id_total": 464,
+        "Id_local": 12,
+        "pregunta": "¿Qué debo hacer si quiero hacer efectiva la póliza del seguro de responsabilidad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/seguro_de_responsabilidad"
+    },
+    {
+        "Id_total": 465,
+        "Id_local": 13,
+        "pregunta": "¿Qué hacer si alguien de manera arbitraria o abusiva perturba, altera o interrumpe el uso de la servidumbre de un inmueble (casa, finca, lote…)?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Molestiasenlaservidumbre"
+    },
+    {
+        "Id_total": 466,
+        "Id_local": 14,
+        "pregunta": "¿Cómo hacer si necesito hacer uso de la propiedad de otra persona para poder disfrutar plenamente la mía?",
+        "link": "https://www.legalapp.gov.co/temajusticia/constitucion-de-servidumbre"
+    },
+    {
+        "Id_total": 467,
+        "Id_local": 15,
+        "pregunta": "¿Cómo hacer para que una persona sea reconocida como padre o madre de un niño o niña?",
+        "link": "https://www.legalapp.gov.co/temajusticia/reconocimiento_de_paternidad_o_maternidad"
+    },
+    {
+        "Id_total": 468,
+        "Id_local": 16,
+        "pregunta": "¿Qué debo hacer si otra persona está viviendo en mi casa sin mi autorización y quiero recuperar el uso y disfrute de esta?",
+        "link": "https://www.legalapp.gov.co/temajusticia/proceso-reivindicatorio"
+    },
+    {
+        "Id_total": 469,
+        "Id_local": 17,
+        "pregunta": "¿Qué debo hacer si quiero vender algo con la condición de que me sea devuelto en un plazo y/o condición determinada?",
+        "link": "https://www.legalapp.gov.co/temajusticia/pacto-de-retroventa"
+    },
+    {
+        "Id_total": 470,
+        "Id_local": 18,
+        "pregunta": "¿Qué debo hacer para definir mi situación militar?",
+        "link": "https://www.legalapp.gov.co/temajusticia/definicion-de-la-situacion-militar"
+    },
+    {
+        "Id_total": 471,
+        "Id_local": 19,
+        "pregunta": "¿Cómo garantizar el cumplimiento de una obligación con un bien mueble y darle seguridad del pago al acreedor registrando la deuda en internet?",
+        "link": "https://www.legalapp.gov.co/temajusticia/garantias-mobiliarias"
+    },
+    {
+        "Id_total": 472,
+        "Id_local": 20,
+        "pregunta": "¿Qué hacer para que me reconozcan como dueño de una pequeña propiedad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/proceso_especial_de_pertenencia_formalizar_la_pequenioa_propiedad"
+    },
+    {
+        "Id_total": 473,
+        "Id_local": 21,
+        "pregunta": "¿Qué pasa si tengo una deuda pero mi acreedor se niega a recibir el pago que quiero hacer?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Pago_por_consignacion"
+    },
+    {
+        "Id_total": 474,
+        "Id_local": 22,
+        "pregunta": "¿Qué puedo hacer si tengo una propiedad que está siendo ocupada por otra persona sin mi permiso?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Acción_Reivindicatoria"
+    },
+    {
+        "Id_total": 475,
+        "Id_local": 23,
+        "pregunta": "¿Qué efectos jurídicos tienen las actas de conciliación?",
+        "link": "https://www.legalapp.gov.co/temajusticia/efectos_del_acta_de_conciliacion"
+    },
+    {
+        "Id_total": 476,
+        "Id_local": 24,
+        "pregunta": "¿Qué debo hacer para solicitar el amparo de pobreza en un proceso judicial?",
+        "link": "https://www.legalapp.gov.co/temajusticia/solicitud_de_amparo_de_pobreza"
+    },
+    {
+        "Id_total": 477,
+        "Id_local": 25,
+        "pregunta": "¿Qué hacer para repartir mis bienes en vida?",
+        "link": "https://www.legalapp.gov.co/temajusticia/particion_del_patrimonio_en_vida"
+    },
+    {
+        "Id_total": 478,
+        "Id_local": 26,
+        "pregunta": "¿Qué hacer para que me paguen una deuda?",
+        "link": "https://www.legalapp.gov.co/temajusticia/proceso_ejecutivo_hacer_cumplir_una_deuda"
+    },
+    {
+        "Id_total": 479,
+        "Id_local": 27,
+        "pregunta": "¿Cómo cobrar una deuda si no tengo como probarla?",
+        "link": "https://www.legalapp.gov.co/temajusticia/proceso_monitorio"
+    },
+    {
+        "Id_total": 480,
+        "Id_local": 1,
+        "pregunta": "¿Cómo realizar una promesa de compraventa?",
+        "link": "https://www.legalapp.gov.co/temajusticia/contrato_de_promesa"
+    },
+    {
+        "Id_total": 481,
+        "Id_local": 2,
+        "pregunta": "¿Cómo debo elaborar un contrato de mutuo o préstamo de consumo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/contrato_de_mutuo_o_préstamo_de_consumo"
+    },
+    {
+        "Id_total": 482,
+        "Id_local": 3,
+        "pregunta": "¿Cómo debo  elaborar un contrato de permuta?",
+        "link": "https://www.legalapp.gov.co/temajusticia/contrato_de_permuta_o_cambio"
+    },
+    {
+        "Id_total": 483,
+        "Id_local": 4,
+        "pregunta": "¿Qué hacer para que por medio de un contrato pueda formalizar el préstamo de un bien?",
+        "link": "https://www.legalapp.gov.co/temajusticia/contato_de_comodato_o_prestamo_de_uso"
+    },
+    {
+        "Id_total": 484,
+        "Id_local": 1,
+        "pregunta": "¿Qué hacer si me incumplen un contrato?",
+        "link": "https://www.legalapp.gov.co/temajusticia/incumplimiento_de_contrato"
+    },
+    {
+        "Id_total": 485,
+        "Id_local": 2,
+        "pregunta": "¿El arrendatario puede hacer entrega del bien arrendado antes de que termine el contrato?",
+        "link": "https://www.legalapp.gov.co/temajusticia/terminacion-del-contrato-por-parte-del-arrendatario-mediante-previo-aviso-con-indemnizacion-"
+    },
+    {
+        "Id_total": 486,
+        "Id_local": 3,
+        "pregunta": "¿A quién le corresponde pagar las mejoras o reparaciones de un inmueble arrendado?",
+        "link": "https://www.legalapp.gov.co/temajusticia/reparaciones-y-mejoras-inmueble-arrendado"
+    },
+    {
+        "Id_total": 487,
+        "Id_local": 4,
+        "pregunta": "¿Cómo puedo terminar el contrato de arrendamiento de un local comercial si soy el arrendatario?",
+        "link": "https://www.legalapp.gov.co/temajusticia/terminacion-del-contrato-de-arrendamiento-de-un-local-comercial-por-parte-del-arrendatario"
+    },
+    {
+        "Id_total": 488,
+        "Id_local": 5,
+        "pregunta": "¿Qué hacer para publicar, distribuir y comercializar una obra literaria, artística o científica?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Contrato_de_edicion"
+    },
+    {
+        "Id_total": 489,
+        "Id_local": 6,
+        "pregunta": "¿Qué puedo hacer si tengo una deuda con una persona, que también tiene una deuda conmigo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Compensación"
+    },
+    {
+        "Id_total": 490,
+        "Id_local": 7,
+        "pregunta": "¿Se puede constituir una nueva obligación para sustituir una anterior?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Novación"
+    },
+    {
+        "Id_total": 491,
+        "Id_local": 8,
+        "pregunta": "¿Qué debo hacer para donar parte o la totalidad de mis bienes?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Donacion"
+    },
+    {
+        "Id_total": 492,
+        "Id_local": 9,
+        "pregunta": "¿Cómo se puede garantizar el cumplimiento de una obligación?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Clausula_Penal"
+    },
+    {
+        "Id_total": 493,
+        "Id_local": 10,
+        "pregunta": "¿Puede realizarse la venta de un bien inmueble del cual no soy dueño?",
+        "link": "https://www.legalapp.gov.co/temajusticia/venta_de_cosa_ajena"
+    },
+    {
+        "Id_total": 494,
+        "Id_local": 11,
+        "pregunta": "¿En que consiste la venta de cosa futura?",
+        "link": "https://www.legalapp.gov.co/temajusticia/venta_de_cosa_futura"
+    },
+    {
+        "Id_total": 495,
+        "Id_local": 12,
+        "pregunta": "¿Cómo terminar el contrato de arriendo y recuperar el inmueble, por incumplimiento del arrendatario?",
+        "link": "https://www.legalapp.gov.co/temajusticia/restitucion_de_inmueble_arrendado_incumplimiento_del_arrendatario"
+    },
+    {
+        "Id_total": 496,
+        "Id_local": 13,
+        "pregunta": "¿Cómo puedo terminar el contrato de arriendo y recuperar el inmueble, si lo necesito para vivir, repararlo o para entregarlo en venta?",
+        "link": "https://www.legalapp.gov.co/temajusticia/restitucion_de_inmueble_arrendado_vivienda_reparacion_o_venta_del_inmueble"
+    },
+    {
+        "Id_total": 497,
+        "Id_local": 1,
+        "pregunta": "¿Cómo se tramita un proceso de sucesión cuando los herederos están de acuerdo en la distribución de los bienes?",
+        "link": "https://www.legalapp.gov.co/temajusticia/sucesion_de_comun_acuerdo"
+    },
+    {
+        "Id_total": 498,
+        "Id_local": 2,
+        "pregunta": "¿Cómo se tramita un proceso de sucesión cuando los herederos no están de acuerdo en la distribución de los bienes?",
+        "link": "https://www.legalapp.gov.co/temajusticia/sucesion_contenciosa"
+    },
+    {
+        "Id_total": 499,
+        "Id_local": 3,
+        "pregunta": "¿Se puede perder el derecho a recibir una herencia?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Indignidad_sucesoral"
+    },
+    {
+        "Id_total": 500,
+        "Id_local": 4,
+        "pregunta": "¿Qué puedo hacer para desheredar a un hijo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Desheredamiento"
+    },
+    {
+        "Id_total": 501,
+        "Id_local": 5,
+        "pregunta": "¿Qué puede hacer el acreedor de una persona fallecida para garantizar que con los bienes que aquel dejó se cancele su crédito?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Beneficio_de_separacion_en_la_sucesion"
+    },
+    {
+        "Id_total": 502,
+        "Id_local": 6,
+        "pregunta": "¿Qué pueden hacer los herederos para no tener que responder por la totalidad de las deudas dejadas por una persona fallecida?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Beneficio_de_inventario_en_la_sucesion"
+    },
+    {
+        "Id_total": 503,
+        "Id_local": 7,
+        "pregunta": "¿Cómo se pagan las deudas que deja una persona cuándo fallece?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Pago_de_deudas_hereditarias_y_testamentarias"
+    },
+    {
+        "Id_total": 504,
+        "Id_local": 8,
+        "pregunta": "¿Qué puedo hacer si no quiero recibir una herencia?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Aceptacion_repudio_de_la_herencia"
+    },
+    {
+        "Id_total": 505,
+        "Id_local": 9,
+        "pregunta": "¿En qué consiste la acumulación de sucesiones y cómo se tramita?",
+        "link": "https://www.legalapp.gov.co/temajusticia/acumulacion_de_sucesiones"
+    },
+    {
+        "Id_total": 506,
+        "Id_local": 10,
+        "pregunta": "¿Cuál es el trámite para ceder los derechos de una herencia?",
+        "link": "https://www.legalapp.gov.co/temajusticia/cesion_de_derechos_herenciales"
+    },
+    {
+        "Id_total": 507,
+        "Id_local": 1,
+        "pregunta": "¿Cómo garantizar el pago de una deuda con uno de mis bienes inmuebles?",
+        "link": "https://www.legalapp.gov.co/temajusticia/hipoteca"
+    },
+    {
+        "Id_total": 508,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer para que me declaren poseedor regular de un inmueble?",
+        "link": "https://www.legalapp.gov.co/temajusticia/posesion_regular"
+    },
+    {
+        "Id_total": 509,
+        "Id_local": 3,
+        "pregunta": "¿Cómo me puedo convertir en dueño de un predio sobre el cual he habitado hace mucho tiempo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/declaracion_de_pertenencia"
+    },
+    {
+        "Id_total": 510,
+        "Id_local": 4,
+        "pregunta": "¿Cómo dividir un bien que le pertenece a varias personas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/proceso_divisorio"
+    },
+    {
+        "Id_total": 511,
+        "Id_local": 5,
+        "pregunta": "¿Qué mecanismo existe para asegurar la vivienda familiar de medidas que pueden afectar la propiedad, como los embargos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/afectacion_a_vivienda_familiar"
+    },
+    {
+        "Id_total": 512,
+        "Id_local": 6,
+        "pregunta": "¿Cuál es el trámite para que un inmueble sea patrimonio de familia?",
+        "link": "https://www.legalapp.gov.co/temajusticia/patrimonio_de_familia"
+    },
+    {
+        "Id_total": 513,
+        "Id_local": 7,
+        "pregunta": "¿Qué debo hacer para vender los bienes de propiedad de un hijo que es menor de 18 años o de una persona incapaz?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Autorizacion_para_vender_bienes_de_un_nino"
+    },
+    {
+        "Id_total": 514,
+        "Id_local": 8,
+        "pregunta": "¿Cómo garantizar el cumplimiento de una obligación con un bien mueble y darle seguridad del pago al acreedor registrando la deuda en internet?",
+        "link": "https://www.legalapp.gov.co/temajusticia/garantias-mobiliarias"
+    },
+    {
+        "Id_total": 515,
+        "Id_local": 9,
+        "pregunta": "¿Qué hacer si estoy explotando un predio que es de la Nación (baldío) y quiero que la Agencia Nacional de Tierras me lo entregue y titule?",
+        "link": "https://www.legalapp.gov.co/temajusticia/titulacion_de_baldios"
+    },
+    {
+        "Id_total": 516,
+        "Id_local": 10,
+        "pregunta": "¿Qué hacer para que me reconozcan como dueño de una pequeña propiedad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/proceso_especial_de_pertenencia_formalizar_la_pequenioa_propiedad"
+    },
+    {
+        "Id_total": 517,
+        "Id_local": 11,
+        "pregunta": "¿Qué debo hacer si estoy de acuerdo con mi esposo (a) en repartir los bienes que hemos adquirido durante el matrimonio?",
+        "link": "https://www.legalapp.gov.co/temajusticia/separacion_de_bienes_de_mutuo_acuerdo"
+    },
+    {
+        "Id_total": 518,
+        "Id_local": 12,
+        "pregunta": "¿Qué hacer para que una persona pueda usar y obtener beneficios de un bien que es propiedad de otra?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Usufructo"
+    },
+    {
+        "Id_total": 519,
+        "Id_local": 13,
+        "pregunta": "¿Cuáles son los bienes que me pertenecen de la sociedad conyugal?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Gananciales_matrimoniales"
+    },
+    {
+        "Id_total": 520,
+        "Id_local": 14,
+        "pregunta": "¿Qué debo hacer para constituir una propiedad horizontal?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Propiedad_horizontal"
+    },
+    {
+        "Id_total": 521,
+        "Id_local": 15,
+        "pregunta": "¿Qué debo hacer para poner a mi nombre una propiedad que compré?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Legalizacion_de_propiedad_de_bien_privado"
+    },
+    {
+        "Id_total": 522,
+        "Id_local": 16,
+        "pregunta": "¿Cómo definir los linderos de mi vivienda o de mi propiedad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/deslinde_y_amojonamiento"
+    },
+    {
+        "Id_total": 523,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si quiero acordar o fijar alimentos para adultos mayores?",
+        "link": "https://www.legalapp.gov.co/temajusticia/acordar_o_fijar_alimentos_de_mayores"
+    },
+    {
+        "Id_total": 524,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer si mi hijo necesita salir del país y no llegamos a un acuerdo con mi pareja?",
+        "link": "https://www.legalapp.gov.co/temajusticia/salida_del_pais_con_padres_en_conflicto"
+    },
+    {
+        "Id_total": 525,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer si un menor de edad necesita salir del país y no tiene padres o representantes legales?",
+        "link": "https://www.legalapp.gov.co/temajusticia/salida_del_pais_cuando_no_hay_padres_o_representante_legal"
+    },
+    {
+        "Id_total": 526,
+        "Id_local": 4,
+        "pregunta": "¿Qué debo hacer para que mis propiedades y bienes no ingresen a la sociedad conyugal/patrimonial una vez contraiga matrimonio o inicie unión marital de hecho?",
+        "link": "https://www.legalapp.gov.co/temajusticia/capitulaciones"
+    },
+    {
+        "Id_total": 527,
+        "Id_local": 5,
+        "pregunta": "¿Qué hacer si tengo desacuerdos o conflictos con un vecino de mi edificio o conjunto o con los administradores?",
+        "link": "https://www.legalapp.gov.co/temajusticia/conflicto_entre_copropietarios"
+    },
+    {
+        "Id_total": 528,
+        "Id_local": 6,
+        "pregunta": "¿Qué debo hacer si me casé por la iglesia católica y quiero anular el matrimonio?",
+        "link": "https://www.legalapp.gov.co/temajusticia/anulacion_de_matrimonio_catolico"
+    },
+    {
+        "Id_total": 529,
+        "Id_local": 7,
+        "pregunta": "¿Qué debemos hacer si somos pareja del mismo sexo y queremos registrar a nuestro hijo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/registro_de_hijos_de_parejas_del_mismo_sexo"
+    },
+    {
+        "Id_total": 530,
+        "Id_local": 8,
+        "pregunta": "¿Cuál es el trámite en caso de tener dudas sobre  la paternidad o maternidad  respecto de un hijo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/impugnacion_de_maternidad_o_paternidad"
+    },
+    {
+        "Id_total": 531,
+        "Id_local": 9,
+        "pregunta": "¿Qué debo hacer para  definir la distribución de los bienes que hemos adquirido en la unión libre?",
+        "link": "https://www.legalapp.gov.co/temajusticia/sociedad_patrimonial_declaracion_de_constitucion_de_sociedad_patrimonial_entre_companioeros_permanentes"
+    },
+    {
+        "Id_total": 532,
+        "Id_local": 10,
+        "pregunta": "¿Qué debo hacer si conozco del abandono de un niño, niña o adolescente?",
+        "link": "https://www.legalapp.gov.co/temajusticia/abandono_de_menores"
+    },
+    {
+        "Id_total": 533,
+        "Id_local": 11,
+        "pregunta": "¿Qué mecanismo existe para asegurar la vivienda familiar de medidas que pueden afectar la propiedad, como los embargos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/afectacion_a_vivienda_familiar"
+    },
+    {
+        "Id_total": 534,
+        "Id_local": 12,
+        "pregunta": "¿Las personas con discapacidad pueden contraer matrimonio?",
+        "link": "https://www.legalapp.gov.co/temajusticia/matrimonio_persona_con_discapacidad"
+    },
+    {
+        "Id_total": 535,
+        "Id_local": 13,
+        "pregunta": "¿Cuál es el trámite para que un inmueble sea patrimonio de familia?",
+        "link": "https://www.legalapp.gov.co/temajusticia/patrimonio_de_familia"
+    },
+    {
+        "Id_total": 536,
+        "Id_local": 14,
+        "pregunta": "¿Qué debo hacer si quiero comprar una casa?",
+        "link": "https://www.legalapp.gov.co/temajusticia/compraventa-de-vivienda"
+    },
+    {
+        "Id_total": 537,
+        "Id_local": 15,
+        "pregunta": "¿Cómo hacer para que una persona sea reconocida como padre o madre de un niño o niña?",
+        "link": "https://www.legalapp.gov.co/temajusticia/reconocimiento_de_paternidad_o_maternidad"
+    },
+    {
+        "Id_total": 538,
+        "Id_local": 16,
+        "pregunta": "¿Es posible suspender la patria potestad que los padres ejercen sobre sus hijos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/suspension-de-patria-potestad"
+    },
+    {
+        "Id_total": 539,
+        "Id_local": 17,
+        "pregunta": "¿Cuál es el trámite para celebrar un matrimonio civil?",
+        "link": "https://www.legalapp.gov.co/temajusticia/matrimonio_civil"
+    },
+    {
+        "Id_total": 540,
+        "Id_local": 18,
+        "pregunta": "¿Es posible recuperar la patria potestad de un hijo, que fue suspendida?",
+        "link": "https://www.legalapp.gov.co/temajusticia/restablecimiento-de-la-patria-potestad"
+    },
+    {
+        "Id_total": 541,
+        "Id_local": 19,
+        "pregunta": "¿Qué es la porción conyugal y que hago para solicitarla?",
+        "link": "https://www.legalapp.gov.co/temajusticia/porcion_conyugal"
+    },
+    {
+        "Id_total": 542,
+        "Id_local": 20,
+        "pregunta": "¿Qué hacer para solicitarle alimentos a mi pareja?",
+        "link": "https://www.legalapp.gov.co/temajusticia/derecho-de-alimentos-entre-esposos-o-parejas"
+    },
+    {
+        "Id_total": 543,
+        "Id_local": 21,
+        "pregunta": "¿Qué debo hacer para afiliar a mi pareja como beneficiaria del sistema de salud?",
+        "link": "https://www.legalapp.gov.co/temajusticia/afiliacion-de-la-pareja-al-sistema-de-salud-como-beneficiaria"
+    },
+    {
+        "Id_total": 544,
+        "Id_local": 22,
+        "pregunta": "¿Qué debo hacer para cancelar o sustituir el patrimonio de familia?",
+        "link": "https://www.legalapp.gov.co/temajusticia/cancelacion_y/o_sustitucion_de_patrimonio_de_familia"
+    },
+    {
+        "Id_total": 545,
+        "Id_local": 23,
+        "pregunta": "¿Qué debo hacer si estoy de acuerdo con mi esposo (a) en repartir los bienes que hemos adquirido durante el matrimonio?",
+        "link": "https://www.legalapp.gov.co/temajusticia/separacion_de_bienes_de_mutuo_acuerdo"
+    },
+    {
+        "Id_total": 546,
+        "Id_local": 24,
+        "pregunta": "¿Qué hacer para repartir los bienes adquiridos en el matrimonio, si mi esposo (a) no está de acuerdo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/separacion_de_bienes_contenciosa"
+    },
+    {
+        "Id_total": 547,
+        "Id_local": 25,
+        "pregunta": "¿Es posible cambiar el componente sexo y nombre en el registro civil de un menor?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Correccion_del_componente_sexo_en_el_registro_civil_de_un_menor_de_edad"
+    },
+    {
+        "Id_total": 548,
+        "Id_local": 26,
+        "pregunta": "¿Qué debo hacer si estoy de acuerdo con mi esposo (a)  en dejar de convivir juntos, sin tener que divorciarnos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/separacion_de_cuerpos_de_comun_acuerdo"
+    },
+    {
+        "Id_total": 549,
+        "Id_local": 27,
+        "pregunta": "¿Qué hacer si no hay acuerdo con mi esposo(a) para dejar de convivir juntos, sin tener que divorciarnos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/separacion_de_cuerpos_contenciosa"
+    },
+    {
+        "Id_total": 550,
+        "Id_local": 28,
+        "pregunta": "¿Qué hacer si es víctima de agresiones por un familiar cercano?",
+        "link": "https://www.legalapp.gov.co/temajusticia/violencia_intrafamiliar"
+    },
+    {
+        "Id_total": 551,
+        "Id_local": 29,
+        "pregunta": "¿Cuál es el trámite para la adopción de un niño?",
+        "link": "https://www.legalapp.gov.co/temajusticia/adopcion"
+    },
+    {
+        "Id_total": 552,
+        "Id_local": 30,
+        "pregunta": "¿Qué hacer en caso de ser víctima o conocer de un abuso o violencia de tipo sexual?",
+        "link": "https://www.legalapp.gov.co/temajusticia/violencia_sexual"
+    },
+    {
+        "Id_total": 553,
+        "Id_local": 31,
+        "pregunta": "¿Qué debo hacer para declarar que convivo en unión libre?",
+        "link": "https://www.legalapp.gov.co/temajusticia/union_marital_de_hecho_declaracion_de_existencia"
+    },
+    {
+        "Id_total": 554,
+        "Id_local": 32,
+        "pregunta": "¿Qué debo hacer para declarar que ya no convivo en unión libre?",
+        "link": "https://www.legalapp.gov.co/temajusticia/union_marital_de_hecho_declaracion_de_cesacion_de_efectos_civiles"
+    },
+    {
+        "Id_total": 555,
+        "Id_local": 1,
+        "pregunta": "¿Cómo garantizar el pago de una deuda con uno de mis bienes inmuebles?",
+        "link": "https://www.legalapp.gov.co/temajusticia/hipoteca"
+    },
+    {
+        "Id_total": 556,
+        "Id_local": 2,
+        "pregunta": "¿Qué hacer si me quieren embargar alguno de mis bienes como mi casa o mi carro?",
+        "link": "https://www.legalapp.gov.co/temajusticia/embargo"
+    },
+    {
+        "Id_total": 557,
+        "Id_local": 3,
+        "pregunta": "¿Qué mecanismo existe para asegurar la vivienda familiar de medidas que pueden afectar la propiedad, como los embargos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/afectacion_a_vivienda_familiar"
+    },
+    {
+        "Id_total": 558,
+        "Id_local": 4,
+        "pregunta": "¿Cuál es el trámite para que un inmueble sea patrimonio de familia?",
+        "link": "https://www.legalapp.gov.co/temajusticia/patrimonio_de_familia"
+    },
+    {
+        "Id_total": 559,
+        "Id_local": 5,
+        "pregunta": "¿Qué debo hacer si quiero comprar una casa?",
+        "link": "https://www.legalapp.gov.co/temajusticia/compraventa-de-vivienda"
+    },
+    {
+        "Id_total": 560,
+        "Id_local": 6,
+        "pregunta": "¿Qué debo hacer para cancelar o sustituir el patrimonio de familia?",
+        "link": "https://www.legalapp.gov.co/temajusticia/cancelacion_y/o_sustitucion_de_patrimonio_de_familia"
+    },
+    {
+        "Id_total": 561,
+        "Id_local": 7,
+        "pregunta": "¿Qué puedo hacer si conozco un caso de construcción ilegal de viviendas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Urbanización_Ilegal"
+    },
+    {
+        "Id_total": 562,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si quiero acordar o fijar alimentos para adultos mayores?",
+        "link": "https://www.legalapp.gov.co/temajusticia/acordar_o_fijar_alimentos_de_mayores"
+    },
+    {
+        "Id_total": 563,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer si no me quieren seguir pagando los alimentos sin ninguna justificación?",
+        "link": "https://www.legalapp.gov.co/temajusticia/inasistencia_alimentaria"
+    },
+    {
+        "Id_total": 564,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer para no cancelar alimentos de mi hijo mayor de edad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/exoneracion_de_cuota_alimentaria"
+    },
+    {
+        "Id_total": 565,
+        "Id_local": 4,
+        "pregunta": "¿Qué debo hacer si se incrementaron los gastos de mi hija y no me alcanza la cuota de alimentos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/aumento_de_cuota_alimentaria"
+    },
+    {
+        "Id_total": 566,
+        "Id_local": 5,
+        "pregunta": "¿Qué debo hacer si quiero seguir respondiendo por la cuota de mis hijos pero mis ingresos disminuyeron?",
+        "link": "https://www.legalapp.gov.co/temajusticia/disminucion_de_cuota_alimentaria"
+    },
+    {
+        "Id_total": 567,
+        "Id_local": 6,
+        "pregunta": "¿Qué hacer para solicitarle alimentos a mi pareja?",
+        "link": "https://www.legalapp.gov.co/temajusticia/derecho-de-alimentos-entre-esposos-o-parejas"
+    },
+    {
+        "Id_total": 568,
+        "Id_local": 7,
+        "pregunta": "¿Qué debo hacer si quiero acordar o fijar la cuota de alimentos de mi hijo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/cuota_alimentaria_a_ninioos_ninioas_y_adolescentes"
+    },
+    {
+        "Id_total": 569,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si deseo realizar un testamento?",
+        "link": "https://www.legalapp.gov.co/temajusticia/testamento"
+    },
+    {
+        "Id_total": 570,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer si mediante testamento no se entregó la parte de la herencia que legalmente me corresponde?",
+        "link": "https://www.legalapp.gov.co/temajusticia/reforma_del_testamento"
+    },
+    {
+        "Id_total": 571,
+        "Id_local": 3,
+        "pregunta": "¿Qué puedo hacer si no me incluyeron en la sucesión de los bienes de mi padre y tengo todo el derecho como heredero?",
+        "link": "https://www.legalapp.gov.co/temajusticia/peticion_de_herencia"
+    },
+    {
+        "Id_total": 572,
+        "Id_local": 4,
+        "pregunta": "¿Cómo se tramita un proceso de sucesión cuando los herederos están de acuerdo en la distribución de los bienes?",
+        "link": "https://www.legalapp.gov.co/temajusticia/sucesion_de_comun_acuerdo"
+    },
+    {
+        "Id_total": 573,
+        "Id_local": 5,
+        "pregunta": "¿Cómo se tramita un proceso de sucesión cuando los herederos no están de acuerdo en la distribución de los bienes?",
+        "link": "https://www.legalapp.gov.co/temajusticia/sucesion_contenciosa"
+    },
+    {
+        "Id_total": 574,
+        "Id_local": 6,
+        "pregunta": "¿Qué debo hacer para solicitar el dinero de la cuenta bancaria de un familiar que se murió?",
+        "link": "https://www.legalapp.gov.co/temajusticia/entrega-de-dineros-sin-juicio-de-sucesion"
+    },
+    {
+        "Id_total": 575,
+        "Id_local": 7,
+        "pregunta": "¿Qué hacer para que se declare la muerte presunta de una persona?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Declaracion_de_muerte_presunta"
+    },
+    {
+        "Id_total": 576,
+        "Id_local": 8,
+        "pregunta": "¿Qué hacer para repartir mis bienes en vida?",
+        "link": "https://www.legalapp.gov.co/temajusticia/particion_del_patrimonio_en_vida"
+    },
+    {
+        "Id_total": 577,
+        "Id_local": 1,
+        "pregunta": "¿Se deben someter a interdicción las personas con discapacidad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/sistemas_de_apoyos_para_personas_con_discapacidad"
+    },
+    {
+        "Id_total": 578,
+        "Id_local": 2,
+        "pregunta": "¿Si soy una persona con discapacidad cómo debo ser atendido por cualquier tipo de autoridad pública o privada y que derechos tengo para acceder a la administración de justicia?",
+        "link": "https://www.legalapp.gov.co/temajusticia/discapacidad"
+    },
+    {
+        "Id_total": 579,
+        "Id_local": 3,
+        "pregunta": "Soy una persona con discapacidad visual ¿Qué puedo hacer para acceder a la información escrita?",
+        "link": "https://www.legalapp.gov.co/temajusticia/discapacidad_visual"
+    },
+    {
+        "Id_total": 580,
+        "Id_local": 4,
+        "pregunta": "¿Qué medidas se deben tomar para que las personas con discapacidad puedan acceder a todos los espacios y al transporte público, sin impedimento alguno?",
+        "link": "https://www.legalapp.gov.co/temajusticia/accesibilidad_y_transporte_de_las_personas_con_discapacidad"
+    },
+    {
+        "Id_total": 581,
+        "Id_local": 5,
+        "pregunta": "¿Qué se debe hacer si se quiere levantar la medida de interdicción a la que está sujeta una persona con discapacidad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/rehabilitacion_de_interdicto"
+    },
+    {
+        "Id_total": 582,
+        "Id_local": 6,
+        "pregunta": "¿Las personas con discapacidad pueden contraer matrimonio?",
+        "link": "https://www.legalapp.gov.co/temajusticia/matrimonio_persona_con_discapacidad"
+    },
+    {
+        "Id_total": 583,
+        "Id_local": 7,
+        "pregunta": "¿Puede una mujer con discapacidad en embarazo abortar?",
+        "link": "https://www.legalapp.gov.co/temajusticia/aborto_de_personas_con_discapacidad"
+    },
+    {
+        "Id_total": 584,
+        "Id_local": 8,
+        "pregunta": "Soy una persona en condición de discapacidad, ¿Qué puedo hacer para que me reintegren al trabajo si fui despedido sin justa causa?",
+        "link": "https://www.legalapp.gov.co/temajusticia/reintegro_al_trabajo_a_causa_del_despido_de_una_persona_con_discapacidad"
+    },
+    {
+        "Id_total": 585,
+        "Id_local": 9,
+        "pregunta": "¿Cómo reclamar alimentos a una adulto mayor con discapacidad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/solicitud_de_alimentos_para_adulto_mayor_con_discapacidad"
+    },
+    {
+        "Id_total": 586,
+        "Id_local": 10,
+        "pregunta": "¿Qué deben hacer las personas en condición de discapacidad para sacar la libreta militar?",
+        "link": "https://www.legalapp.gov.co/temajusticia/situacion_militar_de_personas_en_condicion_de_discapacidad"
+    },
+    {
+        "Id_total": 587,
+        "Id_local": 11,
+        "pregunta": "¿Qué puedo hacer si me despidieron del trabajo por causa de mi condición de discapacidad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/despido_sin_justa_causa_de_persona_con_discapacidad"
+    },
+    {
+        "Id_total": 588,
+        "Id_local": 12,
+        "pregunta": "¿Qué debo hacer para proteger la integridad y los bienes de una persona con discapacidad mental?",
+        "link": "https://www.legalapp.gov.co/temajusticia/tramite_de_interdiccion_personas_con_discapacidad"
+    },
+    {
+        "Id_total": 589,
+        "Id_local": 1,
+        "pregunta": "¿Qué hacer si sufro de matoneo en el colegio o conozco de alguna víctima del mismo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/matoneo_escolar"
+    },
+    {
+        "Id_total": 590,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer si mi hijo necesita salir del país sin mi compañía?",
+        "link": "https://www.legalapp.gov.co/temajusticia/permiso_para_salida_del_pais"
+    },
+    {
+        "Id_total": 591,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer si sufro o conozco a alguna víctima de ciberbullying?",
+        "link": "https://www.legalapp.gov.co/temajusticia/cibermatoneo"
+    },
+    {
+        "Id_total": 592,
+        "Id_local": 4,
+        "pregunta": "¿Qué debo hacer si soy víctima o conozco una víctima de ataques con ácido?",
+        "link": "https://www.legalapp.gov.co/temajusticia/ataques_con_acido"
+    },
+    {
+        "Id_total": 593,
+        "Id_local": 5,
+        "pregunta": "¿Qué debo hacer si mi hijo necesita salir del país y no llegamos a un acuerdo con mi pareja?",
+        "link": "https://www.legalapp.gov.co/temajusticia/salida_del_pais_con_padres_en_conflicto"
+    },
+    {
+        "Id_total": 594,
+        "Id_local": 6,
+        "pregunta": "¿Qué debo hacer si un menor de edad necesita salir del país y no tiene padres o representantes legales?",
+        "link": "https://www.legalapp.gov.co/temajusticia/salida_del_pais_cuando_no_hay_padres_o_representante_legal"
+    },
+    {
+        "Id_total": 595,
+        "Id_local": 7,
+        "pregunta": "¿Qué debo hacer si el colegio o jardín donde estudia mi hijo me está exigiendo útiles escolares inútiles o innecesarios?",
+        "link": "https://www.legalapp.gov.co/temajusticia/utiles_inutiles"
+    },
+    {
+        "Id_total": 596,
+        "Id_local": 8,
+        "pregunta": "Soy menor de edad grabé un video sosteniendo relaciones sexuales, están comercializando el video en una página web, ¿Qué puedo hacer?",
+        "link": "https://www.legalapp.gov.co/temajusticia/pornografia_infantil"
+    },
+    {
+        "Id_total": 597,
+        "Id_local": 9,
+        "pregunta": "¿Qué puedo hacer si un menor fue violado o accedido carnalmente?",
+        "link": "https://www.legalapp.gov.co/temajusticia/acceso_carnal_a_menor"
+    },
+    {
+        "Id_total": 598,
+        "Id_local": 10,
+        "pregunta": "¿Qué puedo hacer si un adulto, toca, acaricia o realiza acciones de contenido sexual frente a un menor?",
+        "link": "https://www.legalapp.gov.co/temajusticia/acto_sexual_con_menor"
+    },
+    {
+        "Id_total": 599,
+        "Id_local": 11,
+        "pregunta": "¿Qué debo hacer si una persona adulta me persigue o busca contactarme por cualquier medio demostrando intenciones sexuales?",
+        "link": "https://www.legalapp.gov.co/temajusticia/acoso_sexual_en_menores"
+    },
+    {
+        "Id_total": 600,
+        "Id_local": 12,
+        "pregunta": "¿Qué debo hacer si conozco a un menor que es maltratado?",
+        "link": "https://www.legalapp.gov.co/temajusticia/maltrato_infantil"
+    },
+    {
+        "Id_total": 601,
+        "Id_local": 13,
+        "pregunta": "¿Qué puedo hacer si conozco casos o soy víctima de prostitución infantil?",
+        "link": "https://www.legalapp.gov.co/temajusticia/prostitucion_de_menores"
+    },
+    {
+        "Id_total": 602,
+        "Id_local": 14,
+        "pregunta": "¿Qué debo hacer si conozco a un adolescente que cometió un delito?",
+        "link": "https://www.legalapp.gov.co/temajusticia/responsabilidad_penal_de_adolescentes"
+    },
+    {
+        "Id_total": 603,
+        "Id_local": 15,
+        "pregunta": "¿Qué debo hacer si un menor sufre o causa daños, perjuicios o lesiones a otra persona?",
+        "link": "https://www.legalapp.gov.co/temajusticia/responsabilidad_civil_en_menores"
+    },
+    {
+        "Id_total": 604,
+        "Id_local": 16,
+        "pregunta": "¿Qué debo hacer si conozco del abandono de un niño, niña o adolescente?",
+        "link": "https://www.legalapp.gov.co/temajusticia/abandono_de_menores"
+    },
+    {
+        "Id_total": 605,
+        "Id_local": 17,
+        "pregunta": "¿Qué debo hacer si conozco a alguien que ofrece o facilita material pornográfico, pólvora, armas y demás sustancias prohibidas a menores de edad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/ofrecer-y-facilitar-material-pornografico-polvora-armas-y-demas-sustancias-prohibidas-a-menores-de-edad"
+    },
+    {
+        "Id_total": 606,
+        "Id_local": 18,
+        "pregunta": "¿Qué pasa cuando un menor de edad comercializa, porta o consume alcohol y/o sustancias psicoactivas?",
+        "link": "https://www.legalapp.gov.co/temajusticia/comercializacion-porte-y-consumo-de-alcohol-y-o-sustancias-psicoactivas-por-menores-de-edad"
+    },
+    {
+        "Id_total": 607,
+        "Id_local": 19,
+        "pregunta": "¿Cómo hacer para que una persona sea reconocida como padre o madre de un niño o niña?",
+        "link": "https://www.legalapp.gov.co/temajusticia/reconocimiento_de_paternidad_o_maternidad"
+    },
+    {
+        "Id_total": 608,
+        "Id_local": 20,
+        "pregunta": "¿Qué debo hacer si quiero independizarme del cuidado de mis padres?",
+        "link": "https://www.legalapp.gov.co/temajusticia/emancipacion"
+    },
+    {
+        "Id_total": 609,
+        "Id_local": 21,
+        "pregunta": "¿Qué debo hacer para vender los bienes de propiedad de un hijo que es menor de 18 años o de una persona incapaz?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Autorizacion_para_vender_bienes_de_un_nino"
+    },
+    {
+        "Id_total": 610,
+        "Id_local": 22,
+        "pregunta": "¿Es posible suspender la patria potestad que los padres ejercen sobre sus hijos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/suspension-de-patria-potestad"
+    },
+    {
+        "Id_total": 611,
+        "Id_local": 23,
+        "pregunta": "¿Es posible recuperar la patria potestad de un hijo, que fue suspendida?",
+        "link": "https://www.legalapp.gov.co/temajusticia/restablecimiento-de-la-patria-potestad"
+    },
+    {
+        "Id_total": 612,
+        "Id_local": 24,
+        "pregunta": "¿Qué se debe hacer para que un adolescente pueda trabajar?",
+        "link": "https://www.legalapp.gov.co/temajusticia/autorizacion_a_menores_para_trabajar"
+    },
+    {
+        "Id_total": 613,
+        "Id_local": 25,
+        "pregunta": "¿Qué debo hacer si un niño o una niña es víctima de trabajo infantil?",
+        "link": "https://www.legalapp.gov.co/temajusticia/trabajo_infantil"
+    },
+    {
+        "Id_total": 614,
+        "Id_local": 26,
+        "pregunta": "¿Qué hacer sí conozco que un menor fue vinculado a un grupo armado?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Reclutamiento_Forzado"
+    },
+    {
+        "Id_total": 615,
+        "Id_local": 27,
+        "pregunta": "¿Cómo se puede activar las rutas de atención para la prevención del reclutamiento de menores?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Atencion_prevencion_reclutamiento_de_menores"
+    },
+    {
+        "Id_total": 616,
+        "Id_local": 28,
+        "pregunta": "¿Qué debo hacer para solicitar la pensión de invalidez por accidente o enfermedad  que no tienen relación con mis actividades laborales?",
+        "link": "https://www.legalapp.gov.co/temajusticia/pension_de_invalidez_no_profesional"
+    },
+    {
+        "Id_total": 617,
+        "Id_local": 29,
+        "pregunta": "¿Qué debo hacer si quiero acordar o fijar la cuota de alimentos de mi hijo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/cuota_alimentaria_a_ninioos_ninioas_y_adolescentes"
+    },
+    {
+        "Id_total": 618,
+        "Id_local": 30,
+        "pregunta": "¿Qué debo hacer si quiero acordar o fijar la custodia o las visitas de mi hijo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/custodia_cuidado_y_visitas_de_ninioos_ninioas_y_adolescentes"
+    },
+    {
+        "Id_total": 619,
+        "Id_local": 31,
+        "pregunta": "¿Qué hacer si es víctima de agresiones por un familiar cercano?",
+        "link": "https://www.legalapp.gov.co/temajusticia/violencia_intrafamiliar"
+    },
+    {
+        "Id_total": 620,
+        "Id_local": 32,
+        "pregunta": "¿Cuál es el trámite para la adopción de un niño?",
+        "link": "https://www.legalapp.gov.co/temajusticia/adopcion"
+    },
+    {
+        "Id_total": 621,
+        "Id_local": 33,
+        "pregunta": "¿Qué debo hacer para cambiar el sexo que aparece en mi registro civil y la cédula?",
+        "link": "https://www.legalapp.gov.co/temajusticia/correccion_del_componente_sexo_en_el_registro_civil"
+    },
+    {
+        "Id_total": 622,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si mi hijo necesita salir del país y no llegamos a un acuerdo con mi pareja?",
+        "link": "https://www.legalapp.gov.co/temajusticia/salida_del_pais_con_padres_en_conflicto"
+    },
+    {
+        "Id_total": 623,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer si un menor de edad necesita salir del país y no tiene padres o representantes legales?",
+        "link": "https://www.legalapp.gov.co/temajusticia/salida_del_pais_cuando_no_hay_padres_o_representante_legal"
+    },
+    {
+        "Id_total": 624,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer para interrumpir legalmente un embarazo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/interrupcion_voluntaria_del_embarazo"
+    },
+    {
+        "Id_total": 625,
+        "Id_local": 4,
+        "pregunta": "¿Qué debo hacer para que mis propiedades y bienes no ingresen a la sociedad conyugal/patrimonial una vez contraiga matrimonio o inicie unión marital de hecho?",
+        "link": "https://www.legalapp.gov.co/temajusticia/capitulaciones"
+    },
+    {
+        "Id_total": 626,
+        "Id_local": 5,
+        "pregunta": "¿Qué debo hacer si me casé por la iglesia católica y quiero anular el matrimonio?",
+        "link": "https://www.legalapp.gov.co/temajusticia/anulacion_de_matrimonio_catolico"
+    },
+    {
+        "Id_total": 627,
+        "Id_local": 6,
+        "pregunta": "¿Qué debemos hacer si somos pareja del mismo sexo y queremos registrar a nuestro hijo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/registro_de_hijos_de_parejas_del_mismo_sexo"
+    },
+    {
+        "Id_total": 628,
+        "Id_local": 7,
+        "pregunta": "¿Qué debo hacer si soy privado injustamente de la libertad o si mi detención se prolonga ilegalmente?",
+        "link": "https://www.legalapp.gov.co/temajusticia/habeas_corpus"
+    },
+    {
+        "Id_total": 629,
+        "Id_local": 8,
+        "pregunta": "¿Las personas con discapacidad pueden contraer matrimonio?",
+        "link": "https://www.legalapp.gov.co/temajusticia/matrimonio_persona_con_discapacidad"
+    },
+    {
+        "Id_total": 630,
+        "Id_local": 9,
+        "pregunta": "¿Cómo hacer para que una persona sea reconocida como padre o madre de un niño o niña?",
+        "link": "https://www.legalapp.gov.co/temajusticia/reconocimiento_de_paternidad_o_maternidad"
+    },
+    {
+        "Id_total": 631,
+        "Id_local": 10,
+        "pregunta": "¿Qué debo hacer para darle validez en Colombia a un matrimonio celebrado en el extranjero?",
+        "link": "https://www.legalapp.gov.co/temajusticia/validacion-matrimonio-extranjero-en-colombia"
+    },
+    {
+        "Id_total": 632,
+        "Id_local": 11,
+        "pregunta": "¿Cuál es el trámite para celebrar un matrimonio civil?",
+        "link": "https://www.legalapp.gov.co/temajusticia/matrimonio_civil"
+    },
+    {
+        "Id_total": 633,
+        "Id_local": 12,
+        "pregunta": "¿Qué es la porción conyugal y que hago para solicitarla?",
+        "link": "https://www.legalapp.gov.co/temajusticia/porcion_conyugal"
+    },
+    {
+        "Id_total": 634,
+        "Id_local": 13,
+        "pregunta": "¿Qué hacer para solicitarle alimentos a mi pareja?",
+        "link": "https://www.legalapp.gov.co/temajusticia/derecho-de-alimentos-entre-esposos-o-parejas"
+    },
+    {
+        "Id_total": 635,
+        "Id_local": 14,
+        "pregunta": "¿Qué debo hacer para afiliar a mi pareja como beneficiaria del sistema de salud?",
+        "link": "https://www.legalapp.gov.co/temajusticia/afiliacion-de-la-pareja-al-sistema-de-salud-como-beneficiaria"
+    },
+    {
+        "Id_total": 636,
+        "Id_local": 15,
+        "pregunta": "¿Qué debo hacer si estoy de acuerdo con mi esposo (a) en repartir los bienes que hemos adquirido durante el matrimonio?",
+        "link": "https://www.legalapp.gov.co/temajusticia/separacion_de_bienes_de_mutuo_acuerdo"
+    },
+    {
+        "Id_total": 637,
+        "Id_local": 16,
+        "pregunta": "¿Qué hacer para repartir los bienes adquiridos en el matrimonio, si mi esposo (a) no está de acuerdo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/separacion_de_bienes_contenciosa"
+    },
+    {
+        "Id_total": 638,
+        "Id_local": 17,
+        "pregunta": "¿Qué es un inventario solemne de bienes y cómo se realiza?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Inventario_solemne_de_bienes"
+    },
+    {
+        "Id_total": 639,
+        "Id_local": 18,
+        "pregunta": "¿Qué hacer para declarar la nulidad de un matrimonio civil?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Nulidad_del_matrimonio"
+    },
+    {
+        "Id_total": 640,
+        "Id_local": 19,
+        "pregunta": "¿Qué debo hacer si estoy de acuerdo con mi esposo (a)  en dejar de convivir juntos, sin tener que divorciarnos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/separacion_de_cuerpos_de_comun_acuerdo"
+    },
+    {
+        "Id_total": 641,
+        "Id_local": 20,
+        "pregunta": "¿Cómo definir los linderos de mi vivienda o de mi propiedad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/deslinde_y_amojonamiento"
+    },
+    {
+        "Id_total": 642,
+        "Id_local": 21,
+        "pregunta": "¿Qué hacer si no hay acuerdo con mi esposo(a) para dejar de convivir juntos, sin tener que divorciarnos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/separacion_de_cuerpos_contenciosa"
+    },
+    {
+        "Id_total": 643,
+        "Id_local": 22,
+        "pregunta": "¿Qué hacer si es víctima de agresiones por un familiar cercano?",
+        "link": "https://www.legalapp.gov.co/temajusticia/violencia_intrafamiliar"
+    },
+    {
+        "Id_total": 644,
+        "Id_local": 23,
+        "pregunta": "¿Cuál es el trámite para la adopción de un niño?",
+        "link": "https://www.legalapp.gov.co/temajusticia/adopcion"
+    },
+    {
+        "Id_total": 645,
+        "Id_local": 24,
+        "pregunta": "¿Qué hacer en caso de ser víctima o conocer de un abuso o violencia de tipo sexual?",
+        "link": "https://www.legalapp.gov.co/temajusticia/violencia_sexual"
+    },
+    {
+        "Id_total": 646,
+        "Id_local": 25,
+        "pregunta": "¿Qué debo hacer para divorciarme, cuando mi esposa (o) no está de acuerdo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/divorcio_contencioso"
+    },
+    {
+        "Id_total": 647,
+        "Id_local": 1,
+        "pregunta": "¿Qué debo hacer si mi hijo necesita salir del país y no llegamos a un acuerdo con mi pareja?",
+        "link": "https://www.legalapp.gov.co/temajusticia/salida_del_pais_con_padres_en_conflicto"
+    },
+    {
+        "Id_total": 648,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer para interrumpir legalmente un embarazo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/interrupcion_voluntaria_del_embarazo"
+    },
+    {
+        "Id_total": 649,
+        "Id_local": 3,
+        "pregunta": "¿Qué debo hacer para que mis propiedades y bienes no ingresen a la sociedad conyugal/patrimonial una vez contraiga matrimonio o inicie unión marital de hecho?",
+        "link": "https://www.legalapp.gov.co/temajusticia/capitulaciones"
+    },
+    {
+        "Id_total": 650,
+        "Id_local": 4,
+        "pregunta": "¿Qué debemos hacer si somos pareja del mismo sexo y queremos registrar a nuestro hijo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/registro_de_hijos_de_parejas_del_mismo_sexo"
+    },
+    {
+        "Id_total": 651,
+        "Id_local": 5,
+        "pregunta": "¿Cuál es el trámite en caso de tener dudas sobre  la paternidad o maternidad  respecto de un hijo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/impugnacion_de_maternidad_o_paternidad"
+    },
+    {
+        "Id_total": 652,
+        "Id_local": 6,
+        "pregunta": "¿Qué debo hacer para  definir la distribución de los bienes que hemos adquirido en la unión libre?",
+        "link": "https://www.legalapp.gov.co/temajusticia/sociedad_patrimonial_declaracion_de_constitucion_de_sociedad_patrimonial_entre_companioeros_permanentes"
+    },
+    {
+        "Id_total": 653,
+        "Id_local": 7,
+        "pregunta": "¿Cómo hacer para que una persona sea reconocida como padre o madre de un niño o niña?",
+        "link": "https://www.legalapp.gov.co/temajusticia/reconocimiento_de_paternidad_o_maternidad"
+    },
+    {
+        "Id_total": 654,
+        "Id_local": 8,
+        "pregunta": "¿Qué debo hacer para declarar la terminación de la comunidad de bienes de la pareja que convivió en unión libre?",
+        "link": "https://www.legalapp.gov.co/temajusticia/sociedad_patrimonial_declaracion_de_disolucion"
+    },
+    {
+        "Id_total": 655,
+        "Id_local": 9,
+        "pregunta": "¿Qué es la porción conyugal y que hago para solicitarla?",
+        "link": "https://www.legalapp.gov.co/temajusticia/porcion_conyugal"
+    },
+    {
+        "Id_total": 656,
+        "Id_local": 10,
+        "pregunta": "¿Qué hacer para solicitarle alimentos a mi pareja?",
+        "link": "https://www.legalapp.gov.co/temajusticia/derecho-de-alimentos-entre-esposos-o-parejas"
+    },
+    {
+        "Id_total": 657,
+        "Id_local": 11,
+        "pregunta": "¿Qué debo hacer para afiliar a mi pareja como beneficiaria del sistema de salud?",
+        "link": "https://www.legalapp.gov.co/temajusticia/afiliacion-de-la-pareja-al-sistema-de-salud-como-beneficiaria"
+    },
+    {
+        "Id_total": 658,
+        "Id_local": 12,
+        "pregunta": "¿Qué debo hacer si estoy de acuerdo con mi esposo (a) en repartir los bienes que hemos adquirido durante el matrimonio?",
+        "link": "https://www.legalapp.gov.co/temajusticia/separacion_de_bienes_de_mutuo_acuerdo"
+    },
+    {
+        "Id_total": 659,
+        "Id_local": 13,
+        "pregunta": "¿Qué hacer para repartir los bienes adquiridos en el matrimonio, si mi esposo (a) no está de acuerdo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/separacion_de_bienes_contenciosa"
+    },
+    {
+        "Id_total": 660,
+        "Id_local": 14,
+        "pregunta": "¿Qué hacer si no hay acuerdo con mi esposo(a) para dejar de convivir juntos, sin tener que divorciarnos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/separacion_de_cuerpos_contenciosa"
+    },
+    {
+        "Id_total": 661,
+        "Id_local": 15,
+        "pregunta": "¿Qué hacer si es víctima de agresiones por un familiar cercano?",
+        "link": "https://www.legalapp.gov.co/temajusticia/violencia_intrafamiliar"
+    },
+    {
+        "Id_total": 662,
+        "Id_local": 16,
+        "pregunta": "¿Cuál es el trámite para la adopción de un niño?",
+        "link": "https://www.legalapp.gov.co/temajusticia/adopcion"
+    },
+    {
+        "Id_total": 663,
+        "Id_local": 17,
+        "pregunta": "¿Qué hacer en caso de ser víctima o conocer de un abuso o violencia de tipo sexual?",
+        "link": "https://www.legalapp.gov.co/temajusticia/violencia_sexual"
+    },
+    {
+        "Id_total": 664,
+        "Id_local": 18,
+        "pregunta": "¿Qué debo hacer para declarar que convivo en unión libre?",
+        "link": "https://www.legalapp.gov.co/temajusticia/union_marital_de_hecho_declaracion_de_existencia"
+    },
+    {
+        "Id_total": 665,
+        "Id_local": 19,
+        "pregunta": "¿Qué debo hacer para declarar que ya no convivo en unión libre?",
+        "link": "https://www.legalapp.gov.co/temajusticia/union_marital_de_hecho_declaracion_de_cesacion_de_efectos_civiles"
+    },
+    {
+        "Id_total": 666,
+        "Id_local": 1,
+        "pregunta": "¿Se deben someter a interdicción las personas con discapacidad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/sistemas_de_apoyos_para_personas_con_discapacidad"
+    },
+    {
+        "Id_total": 667,
+        "Id_local": 2,
+        "pregunta": "¿Qué debo hacer para interrumpir legalmente un embarazo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/interrupcion_voluntaria_del_embarazo"
+    },
+    {
+        "Id_total": 668,
+        "Id_local": 3,
+        "pregunta": "¿Qué hacer si alguien está utilizando mis datos personales sin mi consentimiento para vulnerar mi buen nombre o para promocionar bienes y servicios que no son de mi interés?",
+        "link": "https://www.legalapp.gov.co/temajusticia/proteccion_de_datos_personales"
+    },
+    {
+        "Id_total": 669,
+        "Id_local": 4,
+        "pregunta": "¿Qué son los datos personales y qué hacer para protegerlos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/habeas_data_proteccion_de_datos_personales"
+    },
+    {
+        "Id_total": 670,
+        "Id_local": 5,
+        "pregunta": "¿Qué debo hacer si un familiar con enfermedad terminal desea terminar con su vida de manera digna?",
+        "link": "https://www.legalapp.gov.co/temajusticia/muerte_asistida_eutanasia"
+    },
+    {
+        "Id_total": 671,
+        "Id_local": 6,
+        "pregunta": "¿Quiénes son donantes de órganos y que debo hacer si no deseo serlo?",
+        "link": "https://www.legalapp.gov.co/temajusticia/donacion-de-organos"
+    },
+    {
+        "Id_total": 672,
+        "Id_local": 7,
+        "pregunta": "¿Qué hacer para solicitar medidas de protección debido a continuas amenazas contra mi vida relacionadas con mis actividades políticas, públicas, sociales o humanitarias?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Solicitud_Medidas_de_Protección_Individual_Unidad_Nacional_de_Protección_(UNP)"
+    },
+    {
+        "Id_total": 673,
+        "Id_local": 8,
+        "pregunta": "¿Qué hacer para solicitar medidas de protección colectivas, debido a continuas amenazas contra la vida y la seguridad personal de un grupo o comunidad?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Solicitud_Medidas_de_Protección_Colectiva_Unidad_Nacional_de_Protección_(UNP)"
+    },
+    {
+        "Id_total": 674,
+        "Id_local": 9,
+        "pregunta": "Soy funcionario público y he recibido graves amenazas, ¿cómo puedo solicitar medidas de protección por parte del Estado?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Proteccion_de_funcionarios_publicos_Unidad_Nacional_de_Protección_(UNP)"
+    },
+    {
+        "Id_total": 675,
+        "Id_local": 10,
+        "pregunta": "¿Qué puedo hacer si tengo antecedentes penales porque suplantaron mi identidad en un proceso penal?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Suplantacion_de_identidad_en_proceso_penal"
+    },
+    {
+        "Id_total": 676,
+        "Id_local": 11,
+        "pregunta": "¿Qué puedo hacer si estoy vinculado a un proceso penal por tener los mismos nombres que una persona que ha cometido delitos?",
+        "link": "https://www.legalapp.gov.co/temajusticia/Homonimia_en_proceso_penal"
+    }
+]

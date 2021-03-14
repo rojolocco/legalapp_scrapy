@@ -1,0 +1,107 @@
+[
+    {
+        "Id": 1,
+        "categoria": "Constitucional",
+        "link": "https://www.legalapp.gov.co/categoria/constitucional"
+    },
+    {
+        "Id": 2,
+        "categoria": "Familia",
+        "link": "https://www.legalapp.gov.co/categoria/familia"
+    },
+    {
+        "Id": 3,
+        "categoria": "Civil",
+        "link": "https://www.legalapp.gov.co/categoria/civil"
+    },
+    {
+        "Id": 4,
+        "categoria": "Administrativo",
+        "link": "https://www.legalapp.gov.co/categoria/administrativo"
+    },
+    {
+        "Id": 5,
+        "categoria": "Penal",
+        "link": "https://www.legalapp.gov.co/categoria/penal"
+    },
+    {
+        "Id": 6,
+        "categoria": "Policivo",
+        "link": "https://www.legalapp.gov.co/categoria/policivo"
+    },
+    {
+        "Id": 7,
+        "categoria": "Propiedad intelectual",
+        "link": "https://www.legalapp.gov.co/categoria/propiedad-intelectual"
+    },
+    {
+        "Id": 8,
+        "categoria": "Laboral",
+        "link": "https://www.legalapp.gov.co/categoria/laboral"
+    },
+    {
+        "Id": 9,
+        "categoria": "Comercial",
+        "link": "https://www.legalapp.gov.co/categoria/comercial"
+    },
+    {
+        "Id": 10,
+        "categoria": "Enfoque diferencial",
+        "link": "https://www.legalapp.gov.co/categoria/enfoque-diferencial"
+    },
+    {
+        "Id": 11,
+        "categoria": "Justicia Transicional",
+        "link": "https://www.legalapp.gov.co/categoria/justicia-transicional"
+    },
+    {
+        "Id": 12,
+        "categoria": "Consumidor",
+        "link": "https://www.legalapp.gov.co/categoria/consumidor"
+    },
+    {
+        "Id": 13,
+        "categoria": "Ambiental",
+        "link": "https://www.legalapp.gov.co/categoria/ambiental"
+    },
+    {
+        "Id": 14,
+        "categoria": "Agrario",
+        "link": "https://www.legalapp.gov.co/categoria/agrario"
+    },
+    {
+        "Id": 15,
+        "categoria": "Migración",
+        "link": "https://www.legalapp.gov.co/categoria/migracion"
+    },
+    {
+        "Id": 16,
+        "categoria": "Disciplinario",
+        "link": "https://www.legalapp.gov.co/categoria/disciplinario"
+    },
+    {
+        "Id": 17,
+        "categoria": "Metodos Alternativos de Solución de Conflictos",
+        "link": "https://www.legalapp.gov.co/categoria/metodos-alternativos-de-solucion-de-conflictos"
+    },
+    {
+        "Id": 18,
+        "categoria": "Electoral",
+        "link": "https://www.legalapp.gov.co/categoria/electoral"
+    },
+    {
+        "Id": 19,
+        "categoria": "Penal Militar",
+        "link": "https://www.legalapp.gov.co/categoria/penal-militar"
+    },
+    {
+        "Id": 20,
+        "categoria": "Covid 19",
+        "link": "https://www.legalapp.gov.co/categoria/covid-19"
+    },
+    {
+        "Id": 21,
+        "categoria": "Jóvenes",
+        "link": "https://www.legalapp.gov.co/categoria/jovenes"
+    }
+]

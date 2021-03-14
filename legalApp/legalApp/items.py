@@ -24,6 +24,9 @@ def remove_costos_abogado_otros(value):
     costo = [item for item in abogado if "costo?" not in item]
     return [item for item in costo if "generales" not in item]
 
+def remove_requisitos_generales(value):
+    return [item.split('Requisitos generales')[0] for item in value]
+
 def replace_tab(value):
     return [item.replace('\t', ' ') for item in value]
 
@@ -31,7 +34,8 @@ def string_replace_dondeAcudir(value):
     return value.replace("\"", "'").split("var arrDondeAcudir = ")[1].split(".")[0].replace("'","").split("|")
 
 def remove_vineta(value):
-    return [item.replace("•", "").strip() for item in value]
+    value = [item.replace("•", "").strip() for item in value]
+    return [item.replace("-", "").strip() for item in value]
 
 def split_dot(value):
     l = value[0].split(".")
@@ -46,14 +50,21 @@ def normatividad_clean2(value):
         return [item.strip()+"." for item in l]
 
 def descripcion_clean(value):
-    value = value[1:]
-    return " ".join(value)
+    value = value[0].split(')',1)
+    return value[1:]
+
+def solo_primero(value):
+    return value[0]
 
 
 
 
 ## Class Item -> Home #############################
 class HomeLegalAppItem(scrapy.Item):
+    Id = scrapy.Field(
+        output_processor=TakeFirst()
+    )
+    
     categoria = scrapy.Field(
         input_processor=MapCompose(str.strip),
         output_processor=TakeFirst()
@@ -73,6 +84,10 @@ class HomeLegalAppItem(scrapy.Item):
 
 ## Class Item -> Categoria #############################
 class CategoriaLegalAppItem(scrapy.Item):
+    Id = scrapy.Field(
+        output_processor=TakeFirst()
+    )
+    
     subcategoria = scrapy.Field(
         input_processor=MapCompose(str.strip),
         output_processor=TakeFirst()
@@ -87,6 +102,14 @@ class CategoriaLegalAppItem(scrapy.Item):
 
 ## Class Item -> Preguntas #############################
 class PreguntasLegalAppItem(scrapy.Item):
+    Id_total = scrapy.Field(
+        output_processor=TakeFirst()
+    )
+    
+    Id_local = scrapy.Field(
+        output_processor=TakeFirst()
+    )
+    
     pregunta = scrapy.Field(
         input_processor=MapCompose(str.strip),
         output_processor=TakeFirst()
@@ -107,12 +130,13 @@ class RespuestasLegalAppItem(scrapy.Item):
     
     descripcion = scrapy.Field(
         input_processor=MapCompose(remove_tags, replace_escape_chars, str.strip),
-        output_processor=Compose(remove_line, descripcion_clean)
+        output_processor=Compose(descripcion_clean, solo_primero)
     )
     
     que_hacer = scrapy.Field(
-        input_processor=MapCompose(remove_tags, str.strip),
-        output_processor=Compose(remove_line, remove_costos_abogado_otros, replace_tab)
+        input_processor=MapCompose(remove_tags, replace_escape_chars, str.strip),
+        #output_processor=Compose(remove_line, remove_costos_abogado_otros, replace_tab)
+        output_processor=Compose(split_dot, remove_line, remove_costos_abogado_otros, remove_requisitos_generales)
     )
     
     donde_acudir = scrapy.Field(
@@ -122,12 +146,13 @@ class RespuestasLegalAppItem(scrapy.Item):
     
     tenga_encuenta = scrapy.Field(
         input_processor=MapCompose(remove_tags, replace_escape_chars, str.strip),
-        output_processor=Compose(remove_vineta, split_dot, remove_line)
+        #output_processor=Compose(remove_vineta, split_dot, remove_line)
+        output_processor=Compose(split_dot, remove_line, remove_vineta)
     )
     
     normatividad = scrapy.Field(
         input_processor=MapCompose(remove_tags, replace_escape_chars, str.strip),
-        output_processor=Compose(split_dot, remove_line)
+        output_processor=Compose(split_dot, remove_line, remove_vineta)
     )
     
     fecha = scrapy.Field(

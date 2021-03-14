@@ -10,10 +10,12 @@ class HomeSpider(scrapy.Spider):
 
     def parse(self, response):
         categorias = response.xpath('//div[@class="caja"]')
+        Id = 0
         
         for cat in categorias:
-            
+            Id += 1
             loader = ItemLoader(item=HomeLegalAppItem(), selector=cat, response=response)
+            loader.add_value('Id', Id)
             loader.add_xpath('categoria', './/a/div[2]/text()')
             loader.add_xpath('link', './/a/@href')
             

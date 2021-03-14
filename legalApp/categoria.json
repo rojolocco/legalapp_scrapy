@@ -1,0 +1,362 @@
+[
+    {
+        "Id": 1,
+        "subcategoria": "Acciones constitucionales",
+        "link": "https://www.legalapp.gov.co/sub/acciones-constitucionales"
+    },
+    {
+        "Id": 2,
+        "subcategoria": "Derechos fundamentales",
+        "link": "https://www.legalapp.gov.co/sub/derechos-fundamentales"
+    },
+    {
+        "Id": 3,
+        "subcategoria": "Parejas: Unión Marital de Hecho",
+        "link": "https://www.legalapp.gov.co/sub/parejas--union-marital-de-hecho"
+    },
+    {
+        "Id": 4,
+        "subcategoria": "Parejas: Matrimonio",
+        "link": "https://www.legalapp.gov.co/sub/parejas--matrimonio"
+    },
+    {
+        "Id": 5,
+        "subcategoria": "Niños, niñas y adolescentes",
+        "link": "https://www.legalapp.gov.co/sub/ninos--ninas-y-adolescentes"
+    },
+    {
+        "Id": 6,
+        "subcategoria": "Personas con discapacidad",
+        "link": "https://www.legalapp.gov.co/sub/personas-con-discapacidad"
+    },
+    {
+        "Id": 7,
+        "subcategoria": "Trámites de familia: Sucesiones",
+        "link": "https://www.legalapp.gov.co/sub/tramites-de-familia--sucesiones"
+    },
+    {
+        "Id": 8,
+        "subcategoria": "Trámites de familia: Alimentos",
+        "link": "https://www.legalapp.gov.co/sub/tramites-de-familia--alimentos"
+    },
+    {
+        "Id": 9,
+        "subcategoria": "Trámites  de familia: Vivienda",
+        "link": "https://www.legalapp.gov.co/sub/tramites--de-familia--vivienda"
+    },
+    {
+        "Id": 10,
+        "subcategoria": "Hogar",
+        "link": "https://www.legalapp.gov.co/sub/hogar"
+    },
+    {
+        "Id": 11,
+        "subcategoria": "Bienes",
+        "link": "https://www.legalapp.gov.co/sub/bienes"
+    },
+    {
+        "Id": 12,
+        "subcategoria": "Sucesiones",
+        "link": "https://www.legalapp.gov.co/sub/sucesiones"
+    },
+    {
+        "Id": 13,
+        "subcategoria": "Contratos civiles",
+        "link": "https://www.legalapp.gov.co/sub/contratos-civiles"
+    },
+    {
+        "Id": 14,
+        "subcategoria": "Contratos civiles: Arrendamiento civil",
+        "link": "https://www.legalapp.gov.co/sub/contratos-civiles--arrendamiento-civil"
+    },
+    {
+        "Id": 15,
+        "subcategoria": "Acciones civiles",
+        "link": "https://www.legalapp.gov.co/sub/acciones-civiles"
+    },
+    {
+        "Id": 16,
+        "subcategoria": "Trámites administrativos",
+        "link": "https://www.legalapp.gov.co/sub/tramites-administrativos"
+    },
+    {
+        "Id": 17,
+        "subcategoria": "Acciones administrativas",
+        "link": "https://www.legalapp.gov.co/sub/acciones-administrativas"
+    },
+    {
+        "Id": 18,
+        "subcategoria": "Disciplinario",
+        "link": "https://www.legalapp.gov.co/sub/disciplinario"
+    },
+    {
+        "Id": 19,
+        "subcategoria": "Delitos contra el orden económico social",
+        "link": "https://www.legalapp.gov.co/sub/delitos-contra-el-orden-economico-social"
+    },
+    {
+        "Id": 20,
+        "subcategoria": "Delitos contra los recursos naturales y el medio ambiente",
+        "link": "https://www.legalapp.gov.co/sub/delitos-contra-los-recursos-naturales-y-el-medio-ambiente"
+    },
+    {
+        "Id": 21,
+        "subcategoria": "Delitos contra la salud pública",
+        "link": "https://www.legalapp.gov.co/sub/delitos-contra-la-salud-publica"
+    },
+    {
+        "Id": 22,
+        "subcategoria": "Delitos contra el patrimonio económico",
+        "link": "https://www.legalapp.gov.co/sub/delitos-contra-el-patrimonio-economico"
+    },
+    {
+        "Id": 23,
+        "subcategoria": "Delitos contra la libertad, integridad y formación sexual",
+        "link": "https://www.legalapp.gov.co/sub/delitos-contra-la-libertad--integridad-y-formacion-sexual"
+    },
+    {
+        "Id": 24,
+        "subcategoria": "Delitos contra la confidencialidad, la integridad y la disponibilidad de los datos y de los sistemas informáticos",
+        "link": "https://www.legalapp.gov.co/sub/delitos-contra-la-confidencialidad--la-integridad-y-la-disponibilidad-de-los-datos-y-de-los-sistemas"
+    },
+    {
+        "Id": 25,
+        "subcategoria": "Delitos contra la familia",
+        "link": "https://www.legalapp.gov.co/sub/delitos-contra-la-familia"
+    },
+    {
+        "Id": 26,
+        "subcategoria": "Delitos contra la libertad individual y otras garantías",
+        "link": "https://www.legalapp.gov.co/sub/delitos-contra-la-libertad-individual-y-otras-garantias"
+    },
+    {
+        "Id": 27,
+        "subcategoria": "Delitos contra la vida y la integridad personal",
+        "link": "https://www.legalapp.gov.co/sub/delitos-contra-la-vida-y-la-integridad-personal"
+    },
+    {
+        "Id": 28,
+        "subcategoria": "Delitos contra los animales",
+        "link": "https://www.legalapp.gov.co/sub/delitos-contra-los-animales"
+    },
+    {
+        "Id": 29,
+        "subcategoria": "Delitos contra mecanismos de participación democrática",
+        "link": "https://www.legalapp.gov.co/sub/delitos-contra-mecanismos-de-participacion-democratica"
+    },
+    {
+        "Id": 30,
+        "subcategoria": "Delitos contra la integridad moral",
+        "link": "https://www.legalapp.gov.co/sub/delitos-contra-la-integridad-moral"
+    },
+    {
+        "Id": 31,
+        "subcategoria": "Penitenciario",
+        "link": "https://www.legalapp.gov.co/sub/penitenciario"
+    },
+    {
+        "Id": 32,
+        "subcategoria": "Delitos contra la fe pública",
+        "link": "https://www.legalapp.gov.co/sub/delitos-contra-la-fe-publica"
+    },
+    {
+        "Id": 33,
+        "subcategoria": "Delitos contra la administración pública",
+        "link": "https://www.legalapp.gov.co/sub/delitos-contra-la-administracion-publica"
+    },
+    {
+        "Id": 34,
+        "subcategoria": "Delitos contra la eficaz y recta impartición de justicia",
+        "link": "https://www.legalapp.gov.co/sub/delitos-contra-la-eficaz-y-recta-imparticion-de-justicia"
+    },
+    {
+        "Id": 35,
+        "subcategoria": "Delitos contra la seguridad pública",
+        "link": "https://www.legalapp.gov.co/sub/delitos-contra-la-seguridad-publica"
+    },
+    {
+        "Id": 36,
+        "subcategoria": "Delitos contra los derechos de autor",
+        "link": "https://www.legalapp.gov.co/sub/delitos-contra-los-derechos-de-autor"
+    },
+    {
+        "Id": 37,
+        "subcategoria": "La relación con los animales",
+        "link": "https://www.legalapp.gov.co/sub/la-relacion-con-los-animales"
+    },
+    {
+        "Id": 38,
+        "subcategoria": "Derechos de autor",
+        "link": "https://www.legalapp.gov.co/sub/derechos-de-autor"
+    },
+    {
+        "Id": 39,
+        "subcategoria": "Propiedad industrial",
+        "link": "https://www.legalapp.gov.co/sub/propiedad-industrial"
+    },
+    {
+        "Id": 40,
+        "subcategoria": "Contratos laborales",
+        "link": "https://www.legalapp.gov.co/sub/contratos-laborales"
+    },
+    {
+        "Id": 41,
+        "subcategoria": "Pensión",
+        "link": "https://www.legalapp.gov.co/sub/pension"
+    },
+    {
+        "Id": 42,
+        "subcategoria": "Terminación de contrato laboral",
+        "link": "https://www.legalapp.gov.co/sub/terminacion-de-contrato-laboral"
+    },
+    {
+        "Id": 43,
+        "subcategoria": "Trámites laborales",
+        "link": "https://www.legalapp.gov.co/sub/tramites-laborales"
+    },
+    {
+        "Id": 44,
+        "subcategoria": "No pago de prestaciones",
+        "link": "https://www.legalapp.gov.co/sub/no-pago-de-prestaciones"
+    },
+    {
+        "Id": 45,
+        "subcategoria": "Contratos comerciales",
+        "link": "https://www.legalapp.gov.co/sub/contratos-comerciales"
+    },
+    {
+        "Id": 46,
+        "subcategoria": "Establecimiento de comercio",
+        "link": "https://www.legalapp.gov.co/sub/establecimiento-de-comercio"
+    },
+    {
+        "Id": 47,
+        "subcategoria": "Sociedades",
+        "link": "https://www.legalapp.gov.co/sub/sociedades"
+    },
+    {
+        "Id": 48,
+        "subcategoria": "Trámites comerciales",
+        "link": "https://www.legalapp.gov.co/sub/tramites-comerciales"
+    },
+    {
+        "Id": 49,
+        "subcategoria": "Títulos valores",
+        "link": "https://www.legalapp.gov.co/sub/titulos-valores"
+    },
+    {
+        "Id": 50,
+        "subcategoria": "Seguros",
+        "link": "https://www.legalapp.gov.co/sub/seguros"
+    },
+    {
+        "Id": 51,
+        "subcategoria": "Tributario",
+        "link": "https://www.legalapp.gov.co/sub/tributario"
+    },
+    {
+        "Id": 52,
+        "subcategoria": "LGBT",
+        "link": "https://www.legalapp.gov.co/sub/lgbt"
+    },
+    {
+        "Id": 53,
+        "subcategoria": "Mujeres",
+        "link": "https://www.legalapp.gov.co/sub/mujeres"
+    },
+    {
+        "Id": 54,
+        "subcategoria": "Étnicos: Indígenas",
+        "link": "https://www.legalapp.gov.co/sub/etnicos--indigenas"
+    },
+    {
+        "Id": 55,
+        "subcategoria": "Étnicos: Comunidades afrocolombianas",
+        "link": "https://www.legalapp.gov.co/sub/etnicos--comunidades-afrocolombianas"
+    },
+    {
+        "Id": 56,
+        "subcategoria": "Étnicos: Pueblo Rom",
+        "link": "https://www.legalapp.gov.co/sub/etnicos--pueblo-rom"
+    },
+    {
+        "Id": 57,
+        "subcategoria": "Discapacidad",
+        "link": "https://www.legalapp.gov.co/sub/discapacidad"
+    },
+    {
+        "Id": 58,
+        "subcategoria": "Víctimas",
+        "link": "https://www.legalapp.gov.co/sub/victimas"
+    },
+    {
+        "Id": 59,
+        "subcategoria": "Consumidor",
+        "link": "https://www.legalapp.gov.co/sub/consumidor"
+    },
+    {
+        "Id": 60,
+        "subcategoria": "Ambiental",
+        "link": "https://www.legalapp.gov.co/sub/ambiental"
+    },
+    {
+        "Id": 61,
+        "subcategoria": "Agrario",
+        "link": "https://www.legalapp.gov.co/sub/agrario"
+    },
+    {
+        "Id": 62,
+        "subcategoria": "Colombianos en el exterior",
+        "link": "https://www.legalapp.gov.co/sub/colombianos-en-el-exterior"
+    },
+    {
+        "Id": 63,
+        "subcategoria": "Extranjeros",
+        "link": "https://www.legalapp.gov.co/sub/extranjeros"
+    },
+    {
+        "Id": 64,
+        "subcategoria": "Disciplinario",
+        "link": "https://www.legalapp.gov.co/sub/disciplinario"
+    },
+    {
+        "Id": 65,
+        "subcategoria": "Mecanismos alternativos de solución de conflictos (Masc)",
+        "link": "https://www.legalapp.gov.co/sub/mecanismos-alternativos-de-solucion-de-conflictos-(masc)"
+    },
+    {
+        "Id": 66,
+        "subcategoria": "Espacio Público",
+        "link": "https://www.legalapp.gov.co/sub/espacio-publico"
+    },
+    {
+        "Id": 67,
+        "subcategoria": "Convivencia, Seguridad y Tranquilidad",
+        "link": "https://www.legalapp.gov.co/sub/convivencia--seguridad-y-tranquilidad"
+    },
+    {
+        "Id": 68,
+        "subcategoria": "Delitos electorales",
+        "link": "https://www.legalapp.gov.co/sub/delitos-electorales"
+    },
+    {
+        "Id": 69,
+        "subcategoria": "Delitos justicia penal militar",
+        "link": "https://www.legalapp.gov.co/sub/delitos-justicia-penal-militar"
+    },
+    {
+        "Id": 70,
+        "subcategoria": "ESAL-Solidario",
+        "link": "https://www.legalapp.gov.co/sub/esal-solidario"
+    },
+    {
+        "Id": 71,
+        "subcategoria": "Trámites",
+        "link": "https://www.legalapp.gov.co/sub/tramites"
+    },
+    {
+        "Id": 72,
+        "subcategoria": "Conciliación - Tierras",
+        "link": "https://www.legalapp.gov.co/sub/conciliacion---tierras"
+    }
+]

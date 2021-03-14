@@ -10,10 +10,13 @@ class CategoriaSpider(scrapy.Spider):
 
     def parse(self, response):
         subcategorias = response.xpath('//div[contains(@id,"heading")]/h4/a')
+        Id = 0
         
         for sub in subcategorias:
+            Id += 1
                 
             loader = ItemLoader(item=CategoriaLegalAppItem(), selector=sub, response=response)
+            loader.add_value('Id', Id)
             loader.add_xpath('subcategoria', './/li/div/text()')
             loader.add_xpath('link', './/@href')
             
